@@ -1,0 +1,21 @@
+Sample_ID	Biosample_Type	Tissue_Type	Biosample_Name	Cancer_Type	Region_Number	Length	GEO_SRA
+Sample_0001	Cell Line	Lung	H1703	Lung cancer	44254	32442.555 kb	SRR8107305
+Sample_0002	Cell Line	Lung	H1703	Lung cancer	82599	59413.151 kb	SRR8107307
+Sample_0003	Stem Cell	Embryo	primed UCLA1 hESCs	Normal	94678	60703.425 kb	SRR7942724
+Sample_0004	Stem Cell	Embryo	primed UCLA1 hESCs	Normal	105274	55879.893 kb	SRR7942725
+Sample_0005	Stem Cell	Embryo	primed UCLA2 hESCs	Normal	97253	60790.889 kb	SRR7942726
+Sample_0006	Stem Cell	Embryo	primed UCLA2 hESCs	Normal	127089	61745.097 kb	SRR7942727
+Sample_0007	Stem Cell	Embryo	iMeLCs induced from primed UCLA1 hESCs	Normal	31268	17829.782 kb	SRR7942728
+Sample_0008	Stem Cell	Embryo	iMeLCs induced from primed UCLA1 hESCs	Normal	65001	34707.324 kb	SRR7942729
+Sample_0009	Stem Cell	Embryo	iMeLCs induced from primed UCLA2 hESCs	Normal	24774	13602.714 kb	SRR7942730
+Sample_0010	Stem Cell	Embryo	iMeLCs induced from primed UCLA2 hESCs	Normal	67566	27815.403 kb	SRR7942731
+Sample_0011	Stem Cell	Embryo	hPGCLCs induced from primed UCLA1 hESCs	Normal	54344	35559.053 kb	SRR7942732
+Sample_0012	Stem Cell	Embryo	hPGCLCs induced from primed UCLA1 hESCs	Normal	92904	52232.038 kb	SRR7942733
+Sample_0013	Stem Cell	Embryo	hPGCLCs induced from primed UCLA2 hESCs	Normal	65085	41953.36 kb	SRR7942734
+Sample_0014	Stem Cell	Embryo	cKIT/TNAP-sorted hPGCs from human embryonic gonad	Normal	43618	30380.288 kb	SRR7942736
+Sample_0015	Stem Cell	Embryo	cKIT/TNAP-sorted hPGCs from human embryonic gonad	Normal	3470	1640.33 kb	SRR7942737
+Sample_0016	Stem Cell	Embryo	cKIT/TNAP-sorted hPGCs from human embryonic gonad	Normal	21508	9831.39 kb	SRR7942739
+Sample_0017	Stem Cell	Embryo	cKIT/TNAP-sorted hPGCs from human embryonic gonad	Normal	19201	11511.042 kb	SRR7942740
+Sample_0018	Stem Cell	Embryo	Liver cell	Normal	15150	5675.662 kb	SRR7942741
+Sample_0019	Stem Cell	Embryo	Lung cell	Normal	19420	13341.771 kb	SRR7942742
+Sample_0020	Stem Cell	Embryo	Skin cell	Normal	24109	13521.951 kb	SRR7942743
