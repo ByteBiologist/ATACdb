@@ -47,7 +47,7 @@ extract_data <- function(sample_number) {
 all_sample_data <- data.frame()
 
 # Iterate through sample IDs from 1 to 1500
-for (sample_number in 1:1500) {
+for (sample_number in 1:1493) {
   sample_data <- extract_data(sample_number)
   all_sample_data <- rbind(all_sample_data, sample_data)
 }

@@ -19,3 +19,1476 @@ Sample_0017	Stem Cell	Embryo	cKIT/TNAP-sorted hPGCs from human embryonic gonad	N
 Sample_0018	Stem Cell	Embryo	Liver cell	Normal	15150	5675.662 kb	SRR7942741
 Sample_0019	Stem Cell	Embryo	Lung cell	Normal	19420	13341.771 kb	SRR7942742
 Sample_0020	Stem Cell	Embryo	Skin cell	Normal	24109	13521.951 kb	SRR7942743
+Sample_0021	Stem Cell	Embryo	Heart cell	Normal	12210	6746.196 kb	SRR7942744
+Sample_0022	Stem Cell	Embryo	primed UCLA1 hESCs	Normal	15922	7372.703 kb	SRR7942746
+Sample_0023	Stem Cell	Embryo	primed UCLA1 hESCs	Normal	19141	10020.002 kb	SRR7942748
+Sample_0024	Stem Cell	Embryo	primed UCLA1 hESCs	Normal	22345	11582.073 kb	SRR7942749
+Sample_0025	Primary Cell	Blood	CD56Bright natural killer cell	Normal	48025	33182.596 kb	SRR6955601
+Sample_0026	Primary Cell	Blood	CD56Bright natural killer cell	Normal	50447	31487.699 kb	SRR6955602
+Sample_0027	Primary Cell	Blood	CD56Bright natural killer cell	Normal	47349	22331.165 kb	SRR6955603
+Sample_0028	Primary Cell	Blood	CD56Bright natural killer cell	Normal	46698	22925.65 kb	SRR6955604
+Sample_0029	Primary Cell	Blood	CD56Dim natural killer cell	Normal	40745	25568.718 kb	SRR6955605
+Sample_0030	Primary Cell	Blood	CD56Dim natural killer cell	Normal	35916	16942.1 kb	SRR6955607
+Sample_0031	Primary Cell	Blood	CD56Dim natural killer cell	Normal	34589	17723.678 kb	SRR6955608
+Sample_0032	Tissue	Blood	Hematologic malignancy	Leukemia	71117	25969.129 kb	SRR8361360
+Sample_0033	Tissue	Blood	Hematologic malignancy	Leukemia	70206	44172.341 kb	SRR8361361
+Sample_0034	Tissue	Blood	Hematologic malignancy	Leukemia	71638	43085.034 kb	SRR8361362
+Sample_0035	Other	Other	DP3 minus sorted B cell	Normal	32052	14090.492 kb	SRR8361363
+Sample_0036	Tissue	Brain	nucleus accumbens	Normal	55776	33823.528 kb	SRR5343852
+Sample_0037	Tissue	Brain	prefrontal cortex	Normal	30721	15510.548 kb	SRR5343853
+Sample_0038	Tissue	Brain	prefrontal cortex	Normal	36031	22655.659 kb	SRR5343854
+Sample_0039	Tissue	Brain	prefrontal cortex	Normal	64855	40459.391 kb	SRR5343855
+Sample_0040	Tissue	Brain	nucleus accumbens	Normal	72187	40569.932 kb	SRR5343857
+Sample_0041	Tissue	Brain	prefrontal cortex	Normal	66056	37364.129 kb	SRR5343858
+Sample_0042	Tissue	Brain	prefrontal cortex	Normal	45805	26958.365 kb	SRR5343859
+Sample_0043	Tissue	Brain	prefrontal cortex	Normal	81658	43065.472 kb	SRR5343860
+Sample_0044	Tissue	Brain	nucleus accumbens	Normal	68643	39644.708 kb	SRR5343861
+Sample_0045	Tissue	Brain	prefrontal cortex	Normal	127700	55375.838 kb	SRR5343862
+Sample_0046	Tissue	Brain	prefrontal cortex	Normal	145111	57210.536 kb	SRR5343863
+Sample_0047	Tissue	Brain	prefrontal cortex	Normal	116878	62691.912 kb	SRR5343864
+Sample_0048	Tissue	Brain	nucleus accumbens	Normal	108402	56539.635 kb	SRR5343866
+Sample_0049	Tissue	Brain	nucleus accumbens	Normal	42790	18214 kb	SRR5343867
+Sample_0050	Tissue	Brain	nucleus accumbens	Normal	160788	56983.818 kb	SRR5343870
+Sample_0051	Tissue	Brain	nucleus accumbens	Normal	134755	49830.406 kb	SRR5343871
+Sample_0052	Tissue	Brain	nucleus accumbens	Normal	44883	18699.048 kb	SRR5343872
+Sample_0053	Tissue	Brain	nucleus accumbens	Normal	110130	45711.614 kb	SRR5343873
+Sample_0054	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	16233	10970.307 kb	SRR5417018
+Sample_0055	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	16420	11146.815 kb	SRR5417019
+Sample_0056	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	11332	6955.472 kb	SRR5417020
+Sample_0057	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	21424	14851.055 kb	SRR5417021
+Sample_0058	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	22601	15833.275 kb	SRR5417022
+Sample_0059	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	26768	18503.465 kb	SRR5417023
+Sample_0060	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	35076	20145.202 kb	SRR5417024
+Sample_0061	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	20033	12870.709 kb	SRR5417025
+Sample_0062	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	24538	15667.029 kb	SRR5417026
+Sample_0063	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	27629	17015.556 kb	SRR5417027
+Sample_0064	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	32906	20209.983 kb	SRR5417028
+Sample_0065	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	23634	13162.842 kb	SRR5417029
+Sample_0066	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	19089	11074.405 kb	SRR5417030
+Sample_0067	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	22653	12406.348 kb	SRR5417031
+Sample_0068	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	12677	6619.498 kb	SRR5417032
+Sample_0069	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	9941	5220.334 kb	SRR5417033
+Sample_0070	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	10959	6482.452 kb	SRR5417034
+Sample_0071	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	8463	4141.564 kb	SRR5417035
+Sample_0072	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	19405	10967.276 kb	SRR5417036
+Sample_0073	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	23131	13545.97 kb	SRR5417037
+Sample_0074	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	19739	10952.37 kb	SRR5417038
+Sample_0075	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	15394	9763.865 kb	SRR5417039
+Sample_0076	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	21926	12778.378 kb	SRR5417040
+Sample_0077	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	24415	14567.424 kb	SRR5417041
+Sample_0078	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	15403	9427.8 kb	SRR5417042
+Sample_0079	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	14942	9160.869 kb	SRR5417043
+Sample_0080	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	19763	12682.981 kb	SRR5417044
+Sample_0081	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	15954	9573.14 kb	SRR5417045
+Sample_0082	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	15281	9054.955 kb	SRR5417046
+Sample_0083	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	13396	7381.595 kb	SRR5417047
+Sample_0084	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	20648	13419.906 kb	SRR5417048
+Sample_0085	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	22521	14801.347 kb	SRR5417049
+Sample_0086	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	21971	13233.533 kb	SRR5417050
+Sample_0087	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	14780	8526.315 kb	SRR5417051
+Sample_0088	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	20184	11800.655 kb	SRR5417052
+Sample_0089	Induced pluripotent stem cell line	Forebrain	Forebrain neurons	Normal	13930	7509.812 kb	SRR5417053
+Sample_0090	Cell Line	Bone marrow	BM-hMSC-TERT4	Normal	13911	4014.064 kb	SRR7939684
+Sample_0091	Cell Line	Adipose	AT-hMSC-TERT	Normal	17217	4852.33 kb	SRR7939685
+Sample_0092	Cell Line	Adipose	AT-hMSC-TERT	Normal	32694	10027.309 kb	SRR7939686
+Sample_0093	Cell Line	Blood	CLL	Leukemia	40549	24809.825 kb	SRR7815323
+Sample_0094	Cell Line	Blood	CLL	Leukemia	36524	19270.203 kb	SRR7815324
+Sample_0095	Cell Line	Blood	CLL	Leukemia	26085	15387.025 kb	SRR7815325
+Sample_0096	Cell Line	Blood	CLL	Leukemia	23067	13183.983 kb	SRR7815326
+Sample_0097	Cell Line	Kidney	HEK293	Normal	50414	26921.518 kb	SRR6418077
+Sample_0098	Cell Line	Kidney	HEK293	Normal	42309	18782.482 kb	SRR6418078
+Sample_0099	Cell Line	Kidney	HEK293	Normal	33672	15252.695 kb	SRR6418079
+Sample_0100	Cell Line	Kidney	HEK293	Normal	40335	20836.437 kb	SRR6418081
+Sample_0101	Cell Line	Bone marrow	K562	Leukemia	33318	17827.135 kb	SRR6418082
+Sample_0102	Cell Line	Bone marrow	K562	Leukemia	21529	11133.893 kb	SRR6418083
+Sample_0103	Cell Line	Bone marrow	K562	Leukemia	32254	14003.434 kb	SRR6418084
+Sample_0104	Other	Blood	HAEC	Coronary artery disease	39789	16651.508 kb	SRR6898225
+Sample_0105	Other	Blood	HAEC	Coronary artery disease	38133	16389.491 kb	SRR6898226
+Sample_0106	Other	Blood	HAEC	Coronary artery disease	54883	23435.285 kb	SRR6898227
+Sample_0107	Other	Blood	HAEC	Coronary artery disease	41134	15397.085 kb	SRR6898229
+Sample_0108	Other	Blood	HAEC	Coronary artery disease	42349	16089.411 kb	SRR6898230
+Sample_0109	Other	Blood	HAEC	Coronary artery disease	28762	10986.293 kb	SRR6898231
+Sample_0110	Other	Blood	HAEC	Coronary artery disease	22686	8632.285 kb	SRR6898232
+Sample_0111	Other	Blood	HAEC	Coronary artery disease	38213	14337.002 kb	SRR6898233
+Sample_0112	Other	Blood	HAEC	Coronary artery disease	35342	13342.415 kb	SRR6898234
+Sample_0113	Other	Blood	HAEC	Coronary artery disease	40677	16978.485 kb	SRR6898235
+Sample_0114	Other	Blood	HAEC	Coronary artery disease	34188	13753.821 kb	SRR6898236
+Sample_0115	Stem Cell	Adipose	ASCs	Normal	69663	34915.424 kb	SRR6181355
+Sample_0116	Stem Cell	Adipose	ASCs	Normal	57436	25976.577 kb	SRR6181357
+Sample_0117	Stem Cell	Adipose	ASCs	Normal	64614	35066.48 kb	SRR6181358
+Sample_0118	Stem Cell	Adipose	ASCs	Normal	39413	18738.397 kb	SRR6181359
+Sample_0119	Stem Cell	Adipose	ASCs	Normal	81066	36231.452 kb	SRR6181360
+Sample_0120	Stem Cell	Adipose	ASCs	Normal	51148	24906.168 kb	SRR6181361
+Sample_0121	Stem Cell	Adipose	ASCs	Normal	40953	19712.587 kb	SRR6181362
+Sample_0122	Stem Cell	Adipose	ASCs	Normal	62068	32081.726 kb	SRR6181363
+Sample_0123	Stem Cell	Adipose	ASCs	Normal	41378	19447.718 kb	SRR6181364
+Sample_0124	Stem Cell	Adipose	ASCs	Normal	52891	28676.089 kb	SRR6181365
+Sample_0125	Stem Cell	Adipose	ASCs	Normal	61294	30756.958 kb	SRR6181366
+Sample_0126	Stem Cell	Adipose	ASCs	Normal	57908	25876.217 kb	SRR6181367
+Sample_0127	Primary Cell	Skin	Fibroblast	Normal	30073	11462.531 kb	SRR6181372
+Sample_0128	Cell Line	Blood	GM12878	Normal	18445	11712.442 kb	SRR6870514
+Sample_0129	Cell Line	Blood	GM12878	Normal	16954	10609.755 kb	SRR6870515
+Sample_0130	Cell Line	Blood	GM12878	Normal	16322	9559.61 kb	SRR6870516
+Sample_0131	Cell Line	Blood	GM12878	Normal	13729	7725.735 kb	SRR6870517
+Sample_0132	Cell Line	Embryo	HESC	Normal	58745	32100.644 kb	SRR7839290
+Sample_0133	Cell Line	Embryo	HESC	Normal	49216	30400.164 kb	SRR7839291
+Sample_0134	Induced pluripotent stem cell line	Neuron	WT hiPSC#1	Branchio-Oculo-Facial Syndrome (BOFS)	34817	13983.429 kb	SRR6418909
+Sample_0135	Induced pluripotent stem cell line	Neuron	WT hiPSC#1	Branchio-Oculo-Facial Syndrome (BOFS)	26714	9272.209 kb	SRR6418910
+Sample_0136	Induced pluripotent stem cell line	Neuron	WT hiPSC#1	Branchio-Oculo-Facial Syndrome (BOFS)	945	281.041 kb	SRR6418911
+Sample_0137	Stem Cell	Brain	Glioblastoma stem cell	Glioblastoma	60471	35417.28 kb	SRR7642281
+Sample_0138	Stem Cell	Brain	Glioblastoma stem cell	Glioblastoma	53462	36610.886 kb	SRR7642282
+Sample_0139	Stem Cell	Brain	Glioblastoma stem cell	Glioblastoma	47772	32195.251 kb	SRR7642283
+Sample_0140	Stem Cell	Brain	Glioblastoma stem cell	Glioblastoma	47166	32104.98 kb	SRR7642284
+Sample_0141	Stem Cell	Brain	Glioblastoma stem cell	Glioblastoma	38396	25974.33 kb	SRR7642285
+Sample_0142	Stem Cell	Brain	Glioblastoma stem cell	Glioblastoma	38529	25105.848 kb	SRR7642286
+Sample_0143	Cell Line	Skin	Fibroblast	Normal	84904	42834.01 kb	SRR6726091
+Sample_0144	Cell Line	Skin	Fibroblast	Normal	39119	22004.086 kb	SRR6726092
+Sample_0145	Cell Line	Skin	Fibroblast	Normal	103573	36598.452 kb	SRR6726093
+Sample_0146	Cell Line	Skin	Fibroblast	CAID Syndrome	78047	41908.195 kb	SRR6726094
+Sample_0147	Cell Line	Skin	Fibroblast	CAID Syndrome	65917	33666.6 kb	SRR6726095
+Sample_0148	Cell Line	Skin	Fibroblast	CAID Syndrome	87939	35834.354 kb	SRR6726096
+Sample_0149	Cell Line	Skin	Fibroblast	CAID Syndrome	64099	36707.388 kb	SRR6726100
+Sample_0150	Cell Line	Skin	Fibroblast	CAID Syndrome	89613	50934.812 kb	SRR6726101
+Sample_0151	Cell Line	Skin	Fibroblast	CAID Syndrome	94363	47534.691 kb	SRR6726102
+Sample_0152	Cell Line	Colon	YB5	Colon cancer	8377	3437.54 kb	SRR7060328
+Sample_0153	Cell Line	Colon	YB5	Colon cancer	6884	2805.181 kb	SRR7060329
+Sample_0154	Cell Line	Colon	YB5	Colon cancer	6534	2512.174 kb	SRR7060330
+Sample_0155	Cell Line	Colon	YB5	Colon cancer	2474	983.19 kb	SRR7060331
+Sample_0156	Cell Line	Colon	YB5	Colon cancer	1959	765.189 kb	SRR7060332
+Sample_0157	Cell Line	Colon	YB5	Colon cancer	2141	815.665 kb	SRR7060333
+Sample_0158	Cell Line	Cervix	HeLa	Cervix adenocarcinoma	15123	4190.127 kb	SRR8102128
+Sample_0159	Cell Line	Cervix	HeLa	Cervix adenocarcinoma	14150	4070.172 kb	SRR8102129
+Sample_0160	Cell Line	Cervix	HeLa	Cervix adenocarcinoma	19268	5409.563 kb	SRR8102130
+Sample_0161	Cell Line	Cervix	HeLa	Cervix adenocarcinoma	20007	5812.374 kb	SRR8102131
+Sample_0162	Cell Line	Cervix	HeLa	Cervix adenocarcinoma	15596	4732.375 kb	SRR8102132
+Sample_0163	Cell Line	Cervix	HeLa	Cervix adenocarcinoma	10036	2984.011 kb	SRR8102133
+Sample_0164	Cell Line	Cervix	HeLa	Cervix adenocarcinoma	20862	5641.227 kb	SRR8102134
+Sample_0165	Cell Line	Cervix	HeLa	Cervix adenocarcinoma	25017	7071.213 kb	SRR8102135
+Sample_0166	Tissue	Catilage	Catilage	Normal	45430	20852.781 kb	SRR6391858
+Sample_0167	Tissue	Testicle	Testicle	Normal	10246	3665.447 kb	SRR7905001
+Sample_0168	Tissue	Testicle	Testicle	Normal	11725	4346.01 kb	SRR7905002
+Sample_0169	Tissue	Epithelial	Prostate	Normal	16164	9716.162 kb	SRR7651660
+Sample_0170	Tissue	Epithelial	Prostate	Normal	14424	8406.162 kb	SRR7651661
+Sample_0171	Tissue	Epithelial	Prostate	Normal	24500	13722.414 kb	SRR7651662
+Sample_0172	Tissue	Epithelial	Lung	Normal	29214	13927.909 kb	SRR7651663
+Sample_0173	Tissue	Epithelial	Lung	Normal	2789	1726.315 kb	SRR7651664
+Sample_0174	Tissue	Epithelial	Lung	Normal	23107	13115.363 kb	SRR7651665
+Sample_0175	Tissue	Epithelial	Prostate	Other	8004	3837.076 kb	SRR7651666
+Sample_0176	Tissue	Epithelial	Prostate	Other	9151	4437.506 kb	SRR7651667
+Sample_0177	Tissue	Epithelial	Prostate	Other	18521	11502.597 kb	SRR7651668
+Sample_0178	Tissue	Epithelial	Prostate	Other	18180	10617.057 kb	SRR7651669
+Sample_0179	Tissue	Epithelial	Lung	Other	18278	12399.141 kb	SRR7651670
+Sample_0180	Tissue	Epithelial	Lung	Other	11679	7619.49 kb	SRR7651671
+Sample_0181	Tissue	Epithelial	Lung	Other	9219	3940.836 kb	SRR7651672
+Sample_0182	Tissue	Epithelial	Lung	Other	16759	7131.315 kb	SRR7651673
+Sample_0183	Tissue	Epithelial	Lung	Other	19237	9049.284 kb	SRR7651674
+Sample_0184	Tissue	Epithelial	Prostate	Prostate cancer	13819	7228.748 kb	SRR7651675
+Sample_0185	Tissue	Epithelial	Prostate	Prostate cancer	61088	36767.92 kb	SRR7651676
+Sample_0186	Tissue	Epithelial	Prostate	Prostate cancer	9803	3789.993 kb	SRR7651677
+Sample_0187	Tissue	Epithelial	Prostate	Prostate cancer	22067	10468.189 kb	SRR7651678
+Sample_0188	Tissue	Epithelial	Prostate	Prostate cancer	8726	3760.463 kb	SRR7651679
+Sample_0189	Tissue	Epithelial	Prostate	Prostate cancer	14983	5545.864 kb	SRR7651681
+Sample_0190	Tissue	Epithelial	Prostate	Prostate cancer	10805	4139.204 kb	SRR7651682
+Sample_0191	Tissue	Epithelial	Prostate	Prostate cancer	14510	6640.239 kb	SRR7651683
+Sample_0192	Tissue	Epithelial	Prostate	Prostate cancer	18184	7779.457 kb	SRR7651684
+Sample_0193	Tissue	Epithelial	Prostate	Prostate cancer	19326	8387.756 kb	SRR7651685
+Sample_0194	Tissue	Epithelial	Prostate	Prostate cancer	7869	2303.559 kb	SRR7651686
+Sample_0195	Tissue	Epithelial	Lung	Lung cancer	29067	12876.491 kb	SRR7651687
+Sample_0196	Tissue	Epithelial	Lung	Lung cancer	24432	14102.051 kb	SRR7651688
+Sample_0197	Tissue	Epithelial	Lung	Lung cancer	24968	11962.14 kb	SRR7651689
+Sample_0198	Tissue	Epithelial	Lung	Lung cancer	40099	20734.274 kb	SRR7651690
+Sample_0199	Other	Blood	Bulk_B	Normal	43470	28501.887 kb	SRR7650729
+Sample_0200	Other	Blood	Bulk_B	Normal	51747	33379.123 kb	SRR7650730
+Sample_0201	Other	Blood	Mem_B	Normal	46151	32725.852 kb	SRR7650731
+Sample_0202	Other	Blood	Mem_B	Normal	47805	32135.415 kb	SRR7650732
+Sample_0203	Other	Blood	Naive_B	Normal	42238	29191.301 kb	SRR7650733
+Sample_0204	Other	Blood	Naive_B	Normal	49971	34687.616 kb	SRR7650734
+Sample_0205	Other	Blood	Plasmablast	Normal	44012	29619.439 kb	SRR7650735
+Sample_0206	Other	Blood	CD8pos_T	Normal	42890	30410.528 kb	SRR7650736
+Sample_0207	Other	Blood	CD8pos_T	Normal	58592	35605.113 kb	SRR7650737
+Sample_0208	Other	Blood	Central_memory_CD8pos_T	Normal	49046	27006.17 kb	SRR7650738
+Sample_0209	Other	Blood	Central_memory_CD8pos_T	Normal	60809	26562.608 kb	SRR7650739
+Sample_0210	Other	Blood	Effector_memory_CD8pos_T	Normal	45711	33320.526 kb	SRR7650740
+Sample_0211	Other	Blood	Effector_memory_CD8pos_T	Normal	47229	30606.851 kb	SRR7650741
+Sample_0212	Other	Blood	Naive_CD8_T	Normal	35081	21077.016 kb	SRR7650742
+Sample_0213	Other	Blood	Naive_CD8_T	Normal	55448	24700.429 kb	SRR7650743
+Sample_0214	Other	Blood	Gamma_delta_T	Normal	40886	31306.72 kb	SRR7650744
+Sample_0215	Other	Blood	Effector_CD4pos_T	Normal	41936	29662.852 kb	SRR7650745
+Sample_0216	Other	Blood	Effector_CD4pos_T	Normal	61012	36047.67 kb	SRR7650746
+Sample_0217	Other	Blood	Follicular_T_Helper	Normal	49293	21963.367 kb	SRR7650747
+Sample_0218	Other	Blood	Follicular_T_Helper	Normal	86674	29359.603 kb	SRR7650748
+Sample_0219	Other	Blood	Memory_Teffs	Normal	39295	25595.766 kb	SRR7650749
+Sample_0220	Other	Blood	Memory_Teffs	Normal	62666	30722.857 kb	SRR7650750
+Sample_0221	Other	Blood	Memory_Tregs	Normal	33123	23766.375 kb	SRR7650751
+Sample_0222	Other	Blood	Memory_Tregs	Normal	45399	25560.106 kb	SRR7650752
+Sample_0223	Other	Blood	Naive_Teffs	Normal	32036	19603.507 kb	SRR7650753
+Sample_0224	Other	Blood	Naive_Teffs	Normal	55569	31105.737 kb	SRR7650754
+Sample_0225	Other	Blood	Regulatory_T	Normal	30536	23469.623 kb	SRR7650755
+Sample_0226	Other	Blood	Regulatory_T	Normal	31101	18299.882 kb	SRR7650756
+Sample_0227	Other	Blood	Th1	Normal	41270	25523.577 kb	SRR7650757
+Sample_0228	Other	Blood	Th1	Normal	63319	34206.345 kb	SRR7650758
+Sample_0229	Other	Blood	Th17	Normal	46037	30136.739 kb	SRR7650759
+Sample_0230	Other	Blood	Th17	Normal	67676	34284.218 kb	SRR7650760
+Sample_0231	Other	Blood	Th2	Normal	44737	29780.385 kb	SRR7650761
+Sample_0232	Other	Blood	Th2	Normal	68402	30942.73 kb	SRR7650762
+Sample_0233	Other	Blood	Immature_NK	Normal	41297	32364.338 kb	SRR7650763
+Sample_0234	Other	Blood	Natural Killer Cell	Normal	44104	31597.263 kb	SRR7650764
+Sample_0235	Other	Blood	Natural Killer Cell	Normal	42289	29894.422 kb	SRR7650765
+Sample_0236	Other	Blood	Natural Killer Cell	Normal	35331	28666.527 kb	SRR7650766
+Sample_0237	Other	Blood	Monocytes	Normal	43361	23562.229 kb	SRR7650767
+Sample_0238	Other	Blood	Monocytes	Normal	38564	20030.502 kb	SRR7650768
+Sample_0239	Other	Blood	Plasmacytoid dendritic cell	Normal	83223	55363.394 kb	SRR7650769
+Sample_0240	Other	Blood	Plasmacytoid dendritic cell	Normal	42970	23809.075 kb	SRR7650770
+Sample_0241	Other	Blood	pDCs	Normal	16211	7550.912 kb	SRR7650771
+Sample_0242	Other	Blood	Bulk_B	Normal	51385	31505.79 kb	SRR7650772
+Sample_0243	Other	Blood	Bulk_B	Normal	15623	7188.348 kb	SRR7650773
+Sample_0244	Other	Blood	Mem_B	Normal	58578	36083.162 kb	SRR7650774
+Sample_0245	Other	Blood	Mem_B	Normal	28840	16362.565 kb	SRR7650775
+Sample_0246	Other	Blood	Naive_B	Normal	51169	27996.824 kb	SRR7650776
+Sample_0247	Other	Blood	Naive_B	Normal	38093	24224.703 kb	SRR7650777
+Sample_0248	Other	Blood	Plasmablast	Normal	38009	19690.063 kb	SRR7650779
+Sample_0249	Other	Blood	CD8pos_T	Normal	19808	9734.875 kb	SRR7650780
+Sample_0250	Other	Blood	Central_memory_CD8pos_T	Normal	55905	29634.532 kb	SRR7650781
+Sample_0251	Other	Blood	Central_memory_CD8pos_T	Normal	45177	27727.467 kb	SRR7650782
+Sample_0252	Other	Blood	Effector_memory_CD8pos_T	Normal	51720	29484.965 kb	SRR7650783
+Sample_0253	Other	Blood	Effector_memory_CD8pos_T	Normal	24529	14034.063 kb	SRR7650784
+Sample_0254	Other	Blood	Naive_CD8_T	Normal	25996	14176.889 kb	SRR7650785
+Sample_0255	Other	Blood	Naive_CD8_T	Normal	27362	14258.891 kb	SRR7650786
+Sample_0256	Other	Blood	Gamma_delta_T	Normal	38580	21311.599 kb	SRR7650787
+Sample_0257	Other	Blood	Gamma_delta_T	Normal	25905	12983.067 kb	SRR7650788
+Sample_0258	Other	Blood	Effector_CD4pos_T	Normal	64842	35812.92 kb	SRR7650789
+Sample_0259	Other	Blood	Effector_CD4pos_T	Normal	28703	17907.701 kb	SRR7650790
+Sample_0260	Other	Blood	Follicular_T_Helper	Normal	60227	31184.008 kb	SRR7650791
+Sample_0261	Other	Blood	Follicular_T_Helper	Normal	25336	13525.178 kb	SRR7650792
+Sample_0262	Other	Blood	Memory_Teff	Normal	61663	34360.724 kb	SRR7650793
+Sample_0263	Other	Blood	Memory_Teff	Normal	11223	5146.421 kb	SRR7650794
+Sample_0264	Other	Blood	Memory_Tregs	Normal	41499	25330.286 kb	SRR7650795
+Sample_0265	Other	Blood	Memory_Tregs	Normal	12060	4613.411 kb	SRR7650796
+Sample_0266	Other	Blood	Naive_Teffs	Normal	50343	29240.527 kb	SRR7650797
+Sample_0267	Other	Blood	Naive_Teffs	Normal	13500	5747.557 kb	SRR7650798
+Sample_0268	Other	Blood	Regulatory_T	Normal	40754	23402.316 kb	SRR7650799
+Sample_0269	Other	Blood	Regulatory_T	Normal	34613	24123.887 kb	SRR7650800
+Sample_0270	Other	Blood	Th17	Normal	61287	34720.115 kb	SRR7650801
+Sample_0271	Other	Blood	Th17	Normal	38294	24089.084 kb	SRR7650802
+Sample_0272	Other	Blood	Th17	Normal	64668	34847.443 kb	SRR7650803
+Sample_0273	Other	Blood	Th17	Normal	21152	10544.422 kb	SRR7650804
+Sample_0274	Other	Blood	Th2	Normal	68355	36329.1 kb	SRR7650805
+Sample_0275	Other	Blood	Th2	Normal	45602	28512.155 kb	SRR7650806
+Sample_0276	Other	Blood	Immature_NK	Normal	31375	18776.787 kb	SRR7650807
+Sample_0277	Other	Blood	Mature_NK	Normal	16237	7300.926 kb	SRR7650808
+Sample_0278	Other	Blood	Memory_NK	Normal	20030	9393.478 kb	SRR7650809
+Sample_0279	Other	Blood	Myeloid_DCs	Normal	18023	6096.321 kb	SRR7650810
+Sample_0280	Other	Blood	Plasmacytoid dendritic cell	Normal	67972	40432.819 kb	SRR7650811
+Sample_0281	Other	Blood	pDCs	Normal	35873	12410.177 kb	SRR7650812
+Sample_0282	Other	Blood	Bulk_B	Normal	41851	20735.405 kb	SRR7650813
+Sample_0283	Other	Blood	Bulk_B	Normal	41949	16059.794 kb	SRR7650814
+Sample_0284	Other	Blood	Mem_B	Normal	52703	19592.653 kb	SRR7650815
+Sample_0285	Other	Blood	Mem_B	Normal	40643	14003.733 kb	SRR7650816
+Sample_0286	Other	Blood	Naive_B	Normal	45950	23222.896 kb	SRR7650817
+Sample_0287	Other	Blood	Naive_B	Normal	31742	11338.847 kb	SRR7650818
+Sample_0288	Other	Blood	CD8pos_T	Normal	59393	24010.577 kb	SRR7650819
+Sample_0289	Other	Blood	CD8pos_T	Normal	33766	11266.433 kb	SRR7650820
+Sample_0290	Other	Blood	Central_memory_CD8pos_T	Normal	56753	27081.08 kb	SRR7650821
+Sample_0291	Other	Blood	Central_memory_CD8pos_T	Normal	42352	22479.275 kb	SRR7650822
+Sample_0292	Other	Blood	Effector_memory_CD8pos_T	Normal	56601	22612.215 kb	SRR7650823
+Sample_0293	Other	Blood	Effector_memory_CD8pos_T	Normal	24639	9579.222 kb	SRR7650824
+Sample_0294	Other	Blood	Naive_CD8_T	Normal	56822	18575.636 kb	SRR7650825
+Sample_0295	Other	Blood	Naive_CD8_T	Normal	38697	24576.669 kb	SRR7650826
+Sample_0296	Other	Blood	Gamma_delta_T	Normal	52688	21222.643 kb	SRR7650827
+Sample_0297	Other	Blood	Gamma_delta_T	Normal	35305	20521.874 kb	SRR7650828
+Sample_0298	Other	Blood	Effector_CD4pos_T	Normal	38204	14711.022 kb	SRR7650829
+Sample_0299	Other	Blood	Effector_CD4pos_T	Normal	36012	22769.648 kb	SRR7650830
+Sample_0300	Other	Blood	Follicular_T_Helper	Normal	52215	26333.431 kb	SRR7650831
+Sample_0301	Other	Blood	Follicular_T_Helper	Normal	42064	21772.33 kb	SRR7650832
+Sample_0302	Other	Blood	Memory_Teffs	Normal	52511	29187.284 kb	SRR7650833
+Sample_0303	Other	Blood	Memory_Teffs	Normal	37806	24282.567 kb	SRR7650834
+Sample_0304	Other	Blood	Memory_Tregs	Normal	45969	17396.704 kb	SRR7650835
+Sample_0305	Other	Blood	Naive_Teffs	Normal	40786	18149.76 kb	SRR7650836
+Sample_0306	Other	Blood	Naive_Teffs	Normal	41098	22722.634 kb	SRR7650837
+Sample_0307	Other	Blood	Regulatory_T	Normal	34394	19749.21 kb	SRR7650838
+Sample_0308	Other	Blood	Regulatory_T	Normal	47116	25507.548 kb	SRR7650839
+Sample_0309	Other	Blood	Th1	Normal	39083	14459.507 kb	SRR7650840
+Sample_0310	Other	Blood	Th1	Normal	58022	27979.042 kb	SRR7650841
+Sample_0311	Other	Blood	Th17	Normal	57384	30230.937 kb	SRR7650842
+Sample_0312	Other	Blood	Th2	Normal	40017	18079.299 kb	SRR7650843
+Sample_0313	Other	Blood	Th2	Normal	43653	21454.688 kb	SRR7650844
+Sample_0314	Other	Blood	Immature_NK	Normal	28756	9700.405 kb	SRR7650845
+Sample_0315	Other	Blood	Mature_NK	Normal	36935	12144.428 kb	SRR7650846
+Sample_0316	Other	Blood	Mature_NK	Normal	29050	14031.682 kb	SRR7650847
+Sample_0317	Other	Blood	Monocytes	Normal	23677	6604.315 kb	SRR7650849
+Sample_0318	Other	Blood	Monocytes	Normal	18360	5074.609 kb	SRR7650850
+Sample_0319	Other	Blood	Bulk_B	Normal	33119	14533.8 kb	SRR7650851
+Sample_0320	Other	Blood	Mem_B	Normal	24433	11934.369 kb	SRR7650852
+Sample_0321	Other	Blood	Naive_B	Normal	26360	14479.773 kb	SRR7650853
+Sample_0322	Other	Blood	CD8pos_T	Normal	31861	18517.239 kb	SRR7650854
+Sample_0323	Other	Blood	Central_memory_CD8pos_T	Normal	35005	20631.52 kb	SRR7650855
+Sample_0324	Other	Blood	Central_memory_CD8pos_T	Normal	29191	12615.328 kb	SRR7650856
+Sample_0325	Other	Blood	Effector_memory_CD8pos_T	Normal	41803	28802.398 kb	SRR7650857
+Sample_0326	Other	Blood	Effector_memory_CD8pos_T	Normal	39113	19692.224 kb	SRR7650858
+Sample_0327	Other	Blood	Naive_CD8_T	Normal	24925	13247.128 kb	SRR7650859
+Sample_0328	Other	Blood	Naive_CD8_T	Normal	35188	17399.928 kb	SRR7650860
+Sample_0329	Other	Blood	Gamma_delta_T	Normal	35384	21841.034 kb	SRR7650861
+Sample_0330	Other	Blood	Gamma_delta_T	Normal	39434	19988.947 kb	SRR7650862
+Sample_0331	Other	Blood	Effector_CD4pos_T	Normal	30408	16850.197 kb	SRR7650863
+Sample_0332	Other	Blood	Follicular_T_Helper	Normal	17609	9468.739 kb	SRR7650864
+Sample_0333	Other	Blood	Follicular_T_Helper	Normal	41428	19111.334 kb	SRR7650865
+Sample_0334	Other	Blood	Memory_Teffs	Normal	32359	20145.937 kb	SRR7650866
+Sample_0335	Other	Blood	Memory_Teffs	Normal	45791	23047.485 kb	SRR7650867
+Sample_0336	Other	Blood	Memory_Tregs	Normal	24820	14159.049 kb	SRR7650868
+Sample_0337	Other	Blood	Memory_Tregs	Normal	35966	16948.888 kb	SRR7650869
+Sample_0338	Other	Blood	Naive_Teffs	Normal	26619	15497.1 kb	SRR7650870
+Sample_0339	Other	Blood	Naive_Teffs	Normal	39738	20420.736 kb	SRR7650871
+Sample_0340	Other	Blood	Naive_Tregs	Normal	21397	11570.102 kb	SRR7650872
+Sample_0341	Other	Blood	Naive_Tregs	Normal	39003	18122.656 kb	SRR7650873
+Sample_0342	Other	Blood	Regulatory_T	Normal	29088	17336.937 kb	SRR7650874
+Sample_0343	Other	Blood	Regulatory_T	Normal	32828	14728.617 kb	SRR7650875
+Sample_0344	Other	Blood	Th1	Normal	25819	14615.684 kb	SRR7650876
+Sample_0345	Other	Blood	Th1	Normal	45204	22490.586 kb	SRR7650877
+Sample_0346	Other	Blood	Th17	Normal	31586	19255.27 kb	SRR7650878
+Sample_0347	Other	Blood	Th17	Normal	39686	18903.499 kb	SRR7650879
+Sample_0348	Other	Blood	Th2	Normal	34667	21475.331 kb	SRR7650880
+Sample_0349	Other	Blood	Th2	Normal	42441	21231.354 kb	SRR7650881
+Sample_0350	Other	Blood	Immature_NK	Normal	31750	20117.425 kb	SRR7650882
+Sample_0351	Other	Blood	Mature_NK	Normal	29267	16861.358 kb	SRR7650883
+Sample_0352	Other	Blood	Mature_NK	Normal	27101	14129.56 kb	SRR7650884
+Sample_0353	Other	Blood	Naive_Tregs	Normal	17384	12385.625 kb	SRR7650909
+Sample_0354	Other	Blood	Immature_NK	Normal	23921	16585.454 kb	SRR7650910
+Sample_0355	Other	Blood	Mature_NK	Normal	18772	11499.139 kb	SRR7650911
+Sample_0356	Other	Blood	Mature_NK	Normal	22315	15532.746 kb	SRR7650912
+Sample_0357	Other	Blood	Memory_NK	Normal	33116	24254.873 kb	SRR7650913
+Sample_0358	Other	Blood	Monocytes	Normal	23459	13276.167 kb	SRR7650914
+Sample_0359	Other	Blood	Plasmacytoid dendritic cell	Normal	20779	10623.582 kb	SRR7650916
+Sample_0360	Other	Blood	Follicular_T_Helper	Normal	22639	15757.457 kb	SRR7650919
+Sample_0361	Other	Blood	Naive_Tregs	Normal	29323	19149.313 kb	SRR7650920
+Sample_0362	Other	Blood	Mature_NK	Normal	22646	14454.571 kb	SRR7650921
+Sample_0363	Other	Blood	Monocytes	Normal	27239	15650.776 kb	SRR7650923
+Sample_0364	Cell Line	Other	T98G	Glioblastoma	10447	5603.375 kb	SRR6251841
+Sample_0365	Cell Line	Other	T98G	Glioblastoma	12350	6627.852 kb	SRR6251842
+Sample_0366	Cell Line	Other	T98G	Glioblastoma	16731	9125.449 kb	SRR6251843
+Sample_0367	Cell Line	Other	T98G	Glioblastoma	12615	8882.157 kb	SRR6251844
+Sample_0368	Cell Line	Other	T98G	Glioblastoma	14229	10319.24 kb	SRR6251845
+Sample_0369	Cell Line	Other	T98G	Glioblastoma	11664	7906.161 kb	SRR6251846
+Sample_0370	Cell Line	Other	T98G	Glioblastoma	16719	11218.265 kb	SRR6251847
+Sample_0371	Cell Line	Other	T98G	Glioblastoma	18427	12047.833 kb	SRR6251848
+Sample_0372	Cell Line	Other	T98G	Glioblastoma	14588	9460.903 kb	SRR6251849
+Sample_0373	Other	Other	Fibroblast	Other	144365	72012.75 kb	SRR5521292
+Sample_0374	Other	Other	Fibroblast	Other	140225	84492.997 kb	SRR5521293
+Sample_0375	Other	Other	Fibroblast	Other	107900	49468.146 kb	SRR5521294
+Sample_0376	Other	Other	Fibroblast	Other	130405	79652.159 kb	SRR5521295
+Sample_0377	Other	Other	Fibroblast	Other	129959	61888.899 kb	SRR5521296
+Sample_0378	Other	Other	Fibroblast	Other	140887	90498.576 kb	SRR5521297
+Sample_0379	Cell Line	Other	C15	Normal	49127	38535.29 kb	SRR4045884
+Sample_0380	Cell Line	Other	C15	Normal	98557	28491.987 kb	SRR4045886
+Sample_0381	Cell Line	Other	C15	Normal	75545	44237.83 kb	SRR4045889
+Sample_0382	Cell Line	Embryo	H1	Normal	98147	42469.134 kb	SRR4045906
+Sample_0383	Cell Line	Embryo	H1	Normal	67209	48135.723 kb	SRR4045903
+Sample_0384	Cell Line	Embryo	H1	Normal	102712	43323.471 kb	SRR4045907
+Sample_0385	Cell Line	Other	L-C-B	Melanoma	100021	63924.03 kb	SRR6950062
+Sample_0386	Cell Line	Other	SIRT6.2-7	Melanoma	96841	63614.925 kb	SRR6950063
+Sample_0387	Cell Line	Other	SIRT6.1-1	Melanoma	98705	69964.404 kb	SRR6950070
+Sample_0388	Cell Line	Bone	U2OS	Osteosarcoma	1074	513.128 kb	SRR7699133
+Sample_0389	Cell Line	Bone	U2OS	Osteosarcoma	6960	1787.774 kb	SRR7699134
+Sample_0390	Cell Line	Bone	U2OS	Osteosarcoma	8377	2330.39 kb	SRR7699135
+Sample_0391	Cell Line	Bone	U2OS	Osteosarcoma	6685	1973.182 kb	SRR7699136
+Sample_0392	Cell Line	Bone	U2OS	Osteosarcoma	8582	2260.439 kb	SRR7699137
+Sample_0393	Tissue	Adipose	Adipose	Normal	76441	25939.998 kb	SRR7690514
+Sample_0394	Tissue	Adipose	Adipose	Normal	65785	21782.315 kb	SRR7690515
+Sample_0395	Tissue	Adipose	Adipose	Normal	65953	21750.218 kb	SRR7690516
+Sample_0396	Tissue	Adipose	Adipose	Normal	79923	28000.124 kb	SRR7690517
+Sample_0397	Tissue	Adipose	Adipose	Normal	85112	32267.061 kb	SRR7690518
+Sample_0398	Tissue	Adipose	Adipose	Normal	75744	27604.401 kb	SRR7690519
+Sample_0399	Tissue	Adipose	Adipose	Normal	83389	30086.51 kb	SRR7690520
+Sample_0400	Tissue	Adipose	Adipose	Normal	64998	23507.916 kb	SRR7690521
+Sample_0401	Cell Line	Coronary artery smooth muscle	1346	Coronary artery disease	120272	72829.398 kb	SRR7064064
+Sample_0402	Cell Line	Coronary artery smooth muscle	1522	Coronary artery disease	63246	24735.51 kb	SRR7064067
+Sample_0403	Cell Line	Coronary artery smooth muscle	200212	Coronary artery disease	90752	52655.728 kb	SRR7064068
+Sample_0404	Cell Line	Coronary artery smooth muscle	2356	Coronary artery disease	7324	2522.412 kb	SRR7064072
+Sample_0405	Cell Line	Coronary artery smooth muscle	2510	Coronary artery disease	123746	39226.17 kb	SRR7064073
+Sample_0406	Cell Line	Coronary artery smooth muscle	2989	Coronary artery disease	34601	11699.242 kb	SRR7064074
+Sample_0407	Cell Line	Mammary Gland	T47D	Breast cancer	5086	1996.235 kb	SRR6300360
+Sample_0408	Cell Line	Mammary Gland	T47D	Breast cancer	4636	1744.16 kb	SRR6300361
+Sample_0409	Cell Line	Mammary Gland	T47D	Breast cancer	10865	4507.536 kb	SRR6300362
+Sample_0410	Cell Line	Mammary Gland	T47D	Breast cancer	12625	5151.239 kb	SRR6300363
+Sample_0411	Cell Line	Other	HAP1	Leukemia	10376	4409.843 kb	SRR6766909
+Sample_0412	Cell Line	Other	HAP1	Leukemia	16996	5716.459 kb	SRR6766910
+Sample_0413	Cell Line	Other	HAP1	Leukemia	12623	4231.716 kb	SRR6766911
+Sample_0414	Cell Line	Other	HAP1	Leukemia	22770	8904.307 kb	SRR6766912
+Sample_0415	Cell Line	Other	HAP1	Leukemia	15432	5132.843 kb	SRR6766913
+Sample_0416	Cell Line	Other	HAP1	Leukemia	19786	7014.415 kb	SRR6766914
+Sample_0417	Cell Line	Other	HAP1	Leukemia	14665	5599.925 kb	SRR6766915
+Sample_0418	Cell Line	Other	HAP1	Leukemia	24550	9053.804 kb	SRR6766916
+Sample_0419	Cell Line	Other	HAP1	Leukemia	22284	7917.619 kb	SRR6766917
+Sample_0420	Cell Line	Other	HAP1	Leukemia	1934	1512.188 kb	SRR6766918
+Sample_0421	Cell Line	Other	HAP1	Leukemia	1950	1494.223 kb	SRR6766919
+Sample_0422	Cell Line	Other	HAP1	Leukemia	2859	2236.307 kb	SRR6766920
+Sample_0423	Stem Cell	Embryo	HESC	Normal	23176	13265.263 kb	SRR6206773
+Sample_0424	Stem Cell	Embryo	HESC	Normal	17874	9305.893 kb	SRR6206774
+Sample_0425	Stem Cell	Embryo	HESC	Normal	39152	27309.909 kb	SRR6206775
+Sample_0426	Stem Cell	Embryo	HESC	Normal	33136	24765.59 kb	SRR6206776
+Sample_0427	Stem Cell	Embryo	HESC	Normal	76776	58688.795 kb	SRR6206777
+Sample_0428	Stem Cell	Embryo	HESC	Normal	99049	73000.389 kb	SRR6206778
+Sample_0429	Stem Cell	Embryo	HESC	Normal	3940	1871.694 kb	SRR6206779
+Sample_0430	Stem Cell	Embryo	HESC	Normal	13122	7514.532 kb	SRR6206780
+Sample_0431	Cell Line	Glioblastoma	G-13063	Glioblastoma	29006	32136.507 kb	GSM3307238
+Sample_0432	Cell Line	Glioblastoma	G-13063	Glioblastoma	28954	33670.746 kb	GSM3307242
+Sample_0433	Cell Line	Bone	U2OS	Osteosarcoma	12323	8133.139 kb	SRR7537472
+Sample_0434	Cell Line	Bone	U2OS	Osteosarcoma	31433	22443.618 kb	SRR7537474
+Sample_0435	Cell Line	Bone	U2OS	Osteosarcoma	17271	12239.453 kb	SRR7537475
+Sample_0436	Cell Line	Bone	U2OS	Osteosarcoma	33567	24297.956 kb	SRR7537476
+Sample_0437	Cell Line	Bone	U2OS	Osteosarcoma	2303	1558.061 kb	SRR7537477
+Sample_0438	Cell Line	Bone	U2OS	Osteosarcoma	2939	1790.299 kb	SRR7537478
+Sample_0439	Cell Line	Bone	U2OS	Osteosarcoma	3459	2139.338 kb	SRR7537479
+Sample_0440	Cell Line	Bone	U2OS	Osteosarcoma	1987	1392.96 kb	SRR7537480
+Sample_0441	Cell Line	Bone	U2OS	Osteosarcoma	3817	2110.984 kb	SRR7537481
+Sample_0442	Cell Line	Bone	U2OS	Osteosarcoma	1405	975.058 kb	SRR7537482
+Sample_0443	Cell Line	Bone	U2OS	Osteosarcoma	2236	1345.604 kb	SRR7537483
+Sample_0444	Cell Line	Bone	U2OS	Osteosarcoma	4111	2363.473 kb	SRR7537484
+Sample_0445	Cell Line	Bone	U2OS	Osteosarcoma	1905	1391.491 kb	SRR7537485
+Sample_0446	Cell Line	Bone	U2OS	Osteosarcoma	2771	1919.4 kb	SRR7537486
+Sample_0447	Primary Cell	Blood	Monocyte	Normal	31513	13839.616 kb	GSM3231154
+Sample_0448	Tissue	MA9 leukemia xenograft	MA9 leukemia xenograft	Leukemia	10461	5054.491 kb	SRR5800706
+Sample_0449	Tissue	MA9 leukemia xenograft	MA9 leukemia xenograft	Leukemia	24561	12354.274 kb	SRR5800707
+Sample_0450	Other	Brain	anterior cingulate cortex	Other	29467	18212.016 kb	SRR5367708
+Sample_0451	Other	Brain	dorsolateral prefrontal cortex	Other	38200	21299.825 kb	SRR5367709
+Sample_0452	Other	Brain	insula	Other	20716	10950.088 kb	SRR5367710
+Sample_0453	Other	Brain	inferior temporal cortex	Other	27746	12514.683 kb	SRR5367711
+Sample_0454	Other	Brain	medial orbitofrontal cortex	Other	34863	20021.068 kb	SRR5367712
+Sample_0455	Other	Brain	primary visual cortex	Other	16341	9593.83 kb	SRR5367716
+Sample_0456	Other	Brain	posterior superior temporal cortex	Other	15519	9746.074 kb	SRR5367717
+Sample_0457	Other	Brain	ventrolateral prefrontal cortex	Other	23123	12288.544 kb	SRR5367718
+Sample_0458	Other	Brain	dorsolateral prefrontal cortex	Other	58443	27922.466 kb	SRR5367720
+Sample_0459	Other	Brain	insula	Other	38876	11317.473 kb	SRR5367721
+Sample_0460	Other	Brain	medial orbitofrontal cortex	Other	64948	29874.498 kb	SRR5367724
+Sample_0461	Other	Brain	putamen	Other	63386	21038.357 kb	SRR5367726
+Sample_0462	Other	Brain	primary visual cortex	Other	51847	32885.33 kb	SRR5367727
+Sample_0463	Other	Brain	posterior superior temporal cortex	Other	49333	24261.484 kb	SRR5367728
+Sample_0464	Other	Brain	basal amygdala	Other	20054	7972.234 kb	SRR5367731
+Sample_0465	Other	Brain	dorsolateral prefrontal cortex	Other	20564	6156.079 kb	SRR5367732
+Sample_0466	Other	Brain	hippocampus	Other	23053	9020.971 kb	SRR5367733
+Sample_0467	Other	Brain	insula	Other	25797	13571.025 kb	SRR5367734
+Sample_0468	Other	Brain	inferior temporal cortex	Other	20763	6601.048 kb	SRR5367735
+Sample_0469	Other	Brain	mediodorsal thalamus	Other	20351	8736.083 kb	SRR5367736
+Sample_0470	Other	Brain	nucleus accumbens	Other	21282	8054.499 kb	SRR5367737
+Sample_0471	Other	Brain	medial orbitofrontal cortex	Other	32170	13557.937 kb	SRR5367738
+Sample_0472	Other	Brain	primary motor cortex	Other	14730	3957.947 kb	SRR5367739
+Sample_0473	Other	Brain	putamen	Other	27790	10717.422 kb	SRR5367740
+Sample_0474	Other	Brain	posterior superior temporal cortex	Other	21076	7132.48 kb	SRR5367741
+Sample_0475	Other	Brain	ventrolateral prefrontal cortex	Other	19893	7836.917 kb	SRR5367742
+Sample_0476	Other	Brain	anterior cingulate cortex	Other	17020	6746.992 kb	SRR5367743
+Sample_0477	Other	Brain	dorsolateral prefrontal cortex	Other	36682	14130.598 kb	SRR5367744
+Sample_0478	Other	Brain	hippocampus	Other	26481	9915.483 kb	SRR5367745
+Sample_0479	Other	Brain	insula	Other	70417	31978.601 kb	SRR5367746
+Sample_0480	Other	Brain	inferior temporal cortex	Other	6621	1485.911 kb	SRR5367747
+Sample_0481	Other	Brain	mediodorsal thalamus	Other	26530	10330.039 kb	SRR5367748
+Sample_0482	Other	Brain	nucleus accumbens	Other	60630	21824.392 kb	SRR5367749
+Sample_0483	Other	Brain	medial orbitofrontal cortex	Other	18153	5921.162 kb	SRR5367750
+Sample_0484	Other	Brain	putamen	Other	71933	24854.505 kb	SRR5367751
+Sample_0485	Other	Brain	primary visual cortex	Other	25578	11021.295 kb	SRR5367752
+Sample_0486	Other	Brain	posterior superior temporal cortex	Other	26327	10046.106 kb	SRR5367753
+Sample_0487	Other	Brain	ventrolateral prefrontal cortex	Other	59572	24534.338 kb	SRR5367754
+Sample_0488	Other	Brain	anterior cingulate cortex	Other	26978	17111.59 kb	SRR5367755
+Sample_0489	Other	Brain	dorsolateral prefrontal cortex	Other	40324	23121.784 kb	SRR5367756
+Sample_0490	Other	Brain	hippocampus	Other	38116	20584.995 kb	SRR5367757
+Sample_0491	Other	Brain	insula	Other	31693	15792.82 kb	SRR5367758
+Sample_0492	Other	Brain	inferior temporal cortex	Other	19619	11485.736 kb	SRR5367759
+Sample_0493	Other	Brain	medial orbitofrontal cortex	Other	37017	15373.552 kb	SRR5367761
+Sample_0494	Other	Brain	putamen	Other	44318	23210.42 kb	SRR5367763
+Sample_0495	Other	Brain	primary visual cortex	Other	18270	11617.4 kb	SRR5367764
+Sample_0496	Other	Brain	posterior superior temporal cortex	Other	10776	5495.911 kb	SRR5367765
+Sample_0497	Other	Brain	ventrolateral prefrontal cortex	Other	37006	20543.04 kb	SRR5367766
+Sample_0498	Other	Brain	anterior cingulate cortex	Other	48269	18752.818 kb	SRR5367767
+Sample_0499	Other	Brain	dorsolateral prefrontal cortex	Other	59524	33149.529 kb	SRR5367768
+Sample_0500	Other	Brain	hippocampus	Other	37188	15898.8 kb	SRR5367769
+Sample_0501	Other	Brain	insula	Other	30365	13913.594 kb	SRR5367770
+Sample_0502	Other	Brain	inferior temporal cortex	Other	35219	16721.96 kb	SRR5367771
+Sample_0503	Other	Brain	medial orbitofrontal cortex	Other	29850	9127.929 kb	SRR5367773
+Sample_0504	Other	Brain	primary motor cortex	Other	65374	28109.977 kb	SRR5367774
+Sample_0505	Other	Brain	posterior superior temporal cortex	Other	25793	8592.205 kb	SRR5367777
+Sample_0506	Other	Brain	ventrolateral prefrontal cortex	Other	51108	28037.627 kb	SRR5367778
+Sample_0507	Other	Brain	anterior cingulate cortex	Other	30850	18596.647 kb	SRR5367779
+Sample_0508	Other	Brain	dorsolateral prefrontal cortex	Other	18195	9291.908 kb	SRR5367780
+Sample_0509	Other	Brain	insula	Other	16562	8755.71 kb	SRR5367781
+Sample_0510	Other	Brain	inferior temporal cortex	Other	18566	9524.656 kb	SRR5367782
+Sample_0511	Other	Brain	mediodorsal thalamus	Other	45517	22855.007 kb	SRR5367783
+Sample_0512	Other	Brain	primary motor cortex	Other	62818	29187.058 kb	SRR5367795
+Sample_0513	Other	Brain	primary visual cortex	Other	20579	7674.064 kb	SRR5367796
+Sample_0514	Other	Brain	ventrolateral prefrontal cortex	Other	52110	22591.999 kb	SRR5367798
+Sample_0515	Other	Brain	anterior cingulate cortex	Other	33691	8303.716 kb	SRR5367799
+Sample_0516	Other	Brain	basal amygdala	Other	23553	10045.468 kb	SRR5367800
+Sample_0517	Other	Brain	dorsolateral prefrontal cortex	Other	15292	3431.087 kb	SRR5367801
+Sample_0518	Other	Brain	hippocampus	Other	22374	9529.433 kb	SRR5367802
+Sample_0519	Other	Brain	insula	Other	6977	2581.055 kb	SRR5367803
+Sample_0520	Other	Brain	inferior temporal cortex	Other	25756	10849.748 kb	SRR5367804
+Sample_0521	Other	Brain	mediodorsal thalamus	Other	22960	8690.972 kb	SRR5367805
+Sample_0522	Other	Brain	medial orbitofrontal cortex	Other	15135	4995.191 kb	SRR5367806
+Sample_0523	Other	Brain	primary motor cortex	Other	13808	4803.423 kb	SRR5367807
+Sample_0524	Other	Brain	putamen	Other	28834	11147.126 kb	SRR5367808
+Sample_0525	Other	Brain	primary visual cortex	Other	19920	7450.344 kb	SRR5367809
+Sample_0526	Other	Brain	posterior superior temporal cortex	Other	19981	7507.099 kb	SRR5367810
+Sample_0527	Other	Brain	ventrolateral prefrontal cortex	Other	8080	3060.945 kb	SRR5367811
+Sample_0528	Other	Brain	anterior cingulate cortex	Other	24803	8956.263 kb	SRR5367812
+Sample_0529	Other	Brain	basal amygdala	Other	43906	16086.475 kb	SRR5367813
+Sample_0530	Other	Brain	dorsolateral prefrontal cortex	Other	25534	5640.35 kb	SRR5367814
+Sample_0531	Other	Brain	hippocampus	Other	69414	26228.698 kb	SRR5367815
+Sample_0532	Other	Brain	insula	Other	24343	8935.415 kb	SRR5367816
+Sample_0533	Other	Brain	inferior temporal cortex	Other	27190	8853.691 kb	SRR5367817
+Sample_0534	Other	Brain	mediodorsal thalamus	Other	69944	29944.887 kb	SRR5367818
+Sample_0535	Other	Brain	medial orbitofrontal cortex	Other	41994	14989.367 kb	SRR5367819
+Sample_0536	Other	Brain	primary motor cortex	Other	27019	9200.712 kb	SRR5367820
+Sample_0537	Other	Brain	putamen	Other	68327	26515.741 kb	SRR5367821
+Sample_0538	Other	Brain	primary visual cortex	Other	20979	7517.152 kb	SRR5367822
+Sample_0539	Other	Brain	posterior superior temporal cortex	Other	39136	14121.452 kb	SRR5367823
+Sample_0540	Other	Brain	ventrolateral prefrontal cortex	Other	40479	14390.364 kb	SRR5367824
+Sample_0541	Cell Line	Mammary Gland	MCF7	Breast cancer	6	1.715 kb	SRR5926789
+Sample_0542	Cell Line	Lung	IMR90	Normal	68235	31754.823 kb	SRR7357215
+Sample_0543	Cell Line	Blood	Jurkat	Leukemia	23687	16251.162 kb	SRR7275228
+Sample_0544	Cell Line	Blood	U937	Leukemia	55734	43219.671 kb	SRR7275229
+Sample_0545	Cell Line	Mammary Gland	MCF7	Breast cancer	353	82.598 kb	SRR6372039
+Sample_0546	Cell Line	Mammary Gland	MCF7	Breast cancer	579	136.768 kb	SRR6372040
+Sample_0547	Cell Line	Mammary Gland	MCF7	Breast cancer	272	64.442 kb	SRR6372041
+Sample_0548	Cell Line	Mammary Gland	MCF7	Breast cancer	380	89.59 kb	SRR6372043
+Sample_0549	Cell Line	Mammary Gland	MCF7	Breast cancer	235	54.226 kb	SRR6372045
+Sample_0550	Cell Line	Mammary Gland	MCF7	Breast cancer	40244	14812.73 kb	SRR6372046
+Sample_0551	Cell Line	Mammary Gland	MCF7	Breast cancer	10971	3561.85 kb	SRR6372047
+Sample_0552	Cell Line	Other	HeLa	Other	48573	32924.629 kb	SRR6216226
+Sample_0553	Cell Line	Other	HeLa	Other	47511	30912.436 kb	SRR6216227
+Sample_0554	Cell Line	Mammary Gland	MDA-MB-231	Breast cancer	10398	3193.351 kb	SRR5442269
+Sample_0555	Cell Line	Mammary Gland	MDA-MB-231	Breast cancer	9657	3166.04 kb	SRR5442270
+Sample_0556	Cell Line	Mammary Gland	MDA-MB-231	Breast cancer	18522	5868.125 kb	SRR5442271
+Sample_0557	Cell Line	Mammary Gland	MDA-MB-231	Breast cancer	28902	11252.673 kb	SRR5442272
+Sample_0558	Cell Line	Mammary Gland	MDA-MB-231	Breast cancer	9189	2686.938 kb	SRR5442273
+Sample_0559	Cell Line	Mammary Gland	MDA-MB-231	Breast cancer	14487	4983.614 kb	SRR5442274
+Sample_0560	Cell Line	Mammary Gland	MCF7	Breast cancer	24707	10036.361 kb	SRR5442275
+Sample_0561	Cell Line	Mammary Gland	MCF7	Breast cancer	19694	7137.237 kb	SRR5442276
+Sample_0562	Cell Line	Colon	HCT116	Colorectal carcinoma	13618	7238.068 kb	SRR5442278
+Sample_0563	Cell Line	Other	Aska	Sarcoma	14920	8897.21 kb	SRR7167351
+Sample_0564	Cell Line	Other	Aska	Sarcoma	17883	10585.147 kb	SRR7167352
+Sample_0565	Cell Line	Other	Aska	Sarcoma	37609	19777.842 kb	SRR7167353
+Sample_0566	Cell Line	Other	Aska	Sarcoma	34123	18119.234 kb	SRR7167354
+Sample_0567	Cell Line	Other	Aska	Sarcoma	13409	7240.05 kb	SRR7167355
+Sample_0568	Cell Line	Other	Aska	Sarcoma	10617	4978.18 kb	SRR7167356
+Sample_0569	Cell Line	Other	Aska	Sarcoma	11147	5531.506 kb	SRR7167357
+Sample_0570	Cell Line	Other	Aska	Sarcoma	14649	7498.55 kb	SRR7167358
+Sample_0571	Cell Line	Other	CRL7250	Normal	98241	52007.963 kb	SRR7167359
+Sample_0572	Cell Line	Other	CRL7250	Normal	55602	33784.416 kb	SRR7167360
+Sample_0573	Cell Line	Prostate	LN95	Prostate cancer	69354	74749.442 kb	SRR6933116
+Sample_0574	Cell Line	Mammary Gland	T47D	Breast cancer	9533	3850.904 kb	SRR5626531
+Sample_0575	Cell Line	Mammary Gland	T47D	Breast cancer	5124	2210.227 kb	SRR5626532
+Sample_0576	Cell Line	Mammary Gland	T47D	Breast cancer	6238	2460.69 kb	SRR5626533
+Sample_0577	Cell Line	Mammary Gland	T47D	Breast cancer	7938	3330.8 kb	SRR5626534
+Sample_0578	Primary Cell	Peripheral blood	Natural Killer Cell	Normal	26010	12172.346 kb	SRR5767620
+Sample_0579	Primary Cell	Peripheral blood	Natural Killer cell	Normal	9781	3160.151 kb	SRR5767621
+Sample_0580	Cell Line	Brain	BE2C	Neuroblastoma	19897	8074.905 kb	SRR5249476
+Sample_0581	Cell Line	Neuron	Kelly	Neuroblastoma	9583	3734.351 kb	SRR5249477
+Sample_0582	Cell Line	Gastrointestinal stromal	GIST-T1	Gastrointestinal stromal tumor	41720	22517.875 kb	SRR6048583
+Sample_0583	Cell Line	Gastrointestinal stromal	GIST-48B	Gastrointestinal stromal tumor	44120	25160.642 kb	SRR6048584
+Sample_0584	Cell Line	Blood	MOLM13	Leukemia	42992	17968.016 kb	SRR7010323
+Sample_0585	Cell Line	Blood	MOLM13	Leukemia	45652	17933.735 kb	SRR7010324
+Sample_0586	Cell Line	Blood	MOLM13	Leukemia	30389	12805.438 kb	SRR7010325
+Sample_0587	Cell Line	Blood	MOLM13	Leukemia	31277	13404.96 kb	SRR7010326
+Sample_0588	Cell Line	Other	HMLE	Breast cancer	72701	47048.94 kb	SRR7161122
+Sample_0589	Cell Line	Prostate	RWPE1	Normal	10387	3802.268 kb	SRR7161070
+Sample_0590	Cell Line	Prostate	RWPE1	Normal	26574	11062.593 kb	SRR7161071
+Sample_0591	Cell Line	Prostate	RWPE1	Normal	19447	6619.181 kb	SRR7161072
+Sample_0592	Cell Line	Prostate	RWPE1	Normal	15780	4811.604 kb	SRR7161073
+Sample_0593	Cell Line	Prostate	RWPE1	Normal	21772	7140.07 kb	SRR7161074
+Sample_0594	Cell Line	Prostate	RWPE1	Normal	16788	6189.175 kb	SRR7161075
+Sample_0595	Cell Line	Bone	U2OS	Osteosarcoma	37868	18298.246 kb	GSM2946874
+Sample_0596	Cell Line	Bone	U2OS	Osteosarcoma	44656	21119.509 kb	GSM2946875
+Sample_0597	Cell Line	Bone	U2OS	Osteosarcoma	57115	25461.453 kb	GSM2946877
+Sample_0598	Cell Line	Bone	U2OS	Osteosarcoma	46581	22228.5 kb	GSM2946878
+Sample_0599	Cell Line	Bone	U2OS	Osteosarcoma	56553	26888.727 kb	GSM2946879
+Sample_0600	Stem Cell	Embryo	Embryo	Normal	13960	6724.023 kb	GSM2706221
+Sample_0601	Stem Cell	Embryo	Embryo	Normal	13574	6589.183 kb	GSM2706223
+Sample_0602	Stem Cell	Embryo	Embryo	Normal	25824	15326.458 kb	GSM2706226
+Sample_0603	Stem Cell	Embryo	Embryo	Normal	43277	26758.396 kb	GSM2706227
+Sample_0604	Stem Cell	Embryo	Embryo	Normal	31347	20878.005 kb	GSM2706228
+Sample_0605	Stem Cell	Embryo	Embryo	Normal	15398	6074.736 kb	GSM2706230
+Sample_0606	Stem Cell	Embryo	Embryo	Normal	37369	18494.084 kb	GSM2706231
+Sample_0607	Stem Cell	Embryo	Embryo	Normal	45272	22273.117 kb	SRR5837344
+Sample_0608	Stem Cell	Embryo	Embryo	Normal	34467	18953.192 kb	GSM2721905
+Sample_0609	Stem Cell	Embryo	Embryo	Normal	7601	2948.873 kb	SRR6501969
+Sample_0610	Stem Cell	Embryo	Embryo	Normal	11673	3965.22 kb	SRR6501970
+Sample_0611	Stem Cell	Embryo	Embryo	Normal	7398	2788.577 kb	SRR6501971
+Sample_0612	Stem Cell	Embryo	Embryo	Normal	8409	3272.313 kb	SRR6501972
+Sample_0613	Stem Cell	Embryo	Embryo	Normal	12204	4817.876 kb	SRR6501973
+Sample_0614	Cell Line	Blood	ME-1	Leukemia	29143	8339.099 kb	SRR5861512
+Sample_0615	Cell Line	Blood	ME-1	Leukemia	34854	11073.696 kb	SRR5861513
+Sample_0616	Cell Line	Blood	ME-1	Leukemia	38188	12164.034 kb	SRR5861514
+Sample_0617	Cell Line	Blood	ME-1	Leukemia	38874	12294.363 kb	SRR5861515
+Sample_0618	Primary Cell	Bone marrow	pDC	Normal	37629	15412.184 kb	SRR5356156
+Sample_0619	Primary Cell	Bone marrow	UNK	Normal	57180	27151.664 kb	SRR5356157
+Sample_0620	Primary Cell	Bone marrow	Mega	Normal	34448	22742.88 kb	SRR5356158
+Sample_0621	Primary Cell	Bone marrow	Mega	Normal	37730	25007.985 kb	SRR5356159
+Sample_0622	Primary Cell	Bone marrow	pDC	Normal	60318	28702.305 kb	SRR5356160
+Sample_0623	Primary Cell	Bone marrow	UNK	Normal	49820	22184.221 kb	SRR5356161
+Sample_0624	Primary Cell	Bone marrow	pDC	Normal	53308	26590.364 kb	SRR5356162
+Sample_0625	Primary Cell	Bone marrow	GMP-B	Normal	45902	28709.132 kb	SRR5356163
+Sample_0626	Primary Cell	Bone marrow	GMP-C	Normal	69117	34975.127 kb	SRR5356165
+Sample_0627	Primary Cell	Bone marrow	pDC	Normal	39309	19012.226 kb	SRR5356166
+Sample_0628	Primary Cell	Bone marrow	UNK	Normal	41631	18042.968 kb	SRR5356168
+Sample_0629	Stem Cell	Embryo	Primed SSEA4+ UCLA1 hESCs	Normal	34915	17016.518 kb	SRR5815104
+Sample_0630	Stem Cell	Embryo	Primed SSEA4+ UCLA1 hESCs	Normal	27940	13813.295 kb	SRR5815105
+Sample_0631	Stem Cell	Embryo	Primed SSEA4+ UCLA1 hESCs	Normal	30793	15745.592 kb	SRR5815106
+Sample_0632	Stem Cell	Embryo	Primed SSEA4+ UCLA1 hESCs	Normal	22461	11665.733 kb	SRR5815107
+Sample_0633	Stem Cell	Embryo	SSEA4- 5iLAF cultured UCLA1 hESCs	Normal	37061	17756.333 kb	SRR5815108
+Sample_0634	Stem Cell	Embryo	SSEA4- 5iLAF cultured UCLA1 hESCs	Normal	26725	13119.974 kb	SRR5815109
+Sample_0635	Stem Cell	Embryo	SSEA4- 5iLAF cultured UCLA1 hESCs	Normal	32166	15762.806 kb	SRR5815110
+Sample_0636	Stem Cell	Embryo	SSEA4- 5iLAF cultured UCLA1 hESCs	Normal	27132	13351.782 kb	SRR5815111
+Sample_0637	Stem Cell	Embryo	Untransfected UCLA1 hESCs cultured for 5 days in 5iLAF	Normal	37942	20445.063 kb	SRR5815112
+Sample_0638	Stem Cell	Embryo	TFAP2C knockout line 1 UCLA hESCs cultured for 5 days	Normal	30960	16556.539 kb	SRR5815114
+Sample_0639	Stem Cell	Embryo	TFAP2C knockout line 2 UCLA hESCs cultured for 5 days	Normal	21676	11064.906 kb	SRR5815115
+Sample_0640	Stem Cell	Embryo	Eight day	Normal	76041	56181.117 kb	SRR5815116
+Sample_0641	Stem Cell	Embryo	V6.5 mESCs cultured in 2i+LIF conditions	Normal	3513	1083.598 kb	SRR5815117
+Sample_0642	Stem Cell	Embryo	V6.5 mESCs cultured in 2i+LIF conditions	Normal	2178	691.747 kb	SRR5815118
+Sample_0643	Stem Cell	Embryo	EpiSC line from P. Tesar	Normal	1616	463.046 kb	SRR5815119
+Sample_0644	Stem Cell	Embryo	EpiSC line from P. Tesar	Normal	2961	814.001 kb	SRR5815120
+Sample_0645	Stem Cell	Embryo	TFAP2A/2C doubly deficient mESCs cultured for seven passages in 2i+LIF	Normal	602	189.473 kb	SRR5815121
+Sample_0646	Stem Cell	Embryo	TFAP2A/2C doubly deficient mESCs cultured for seven passages in 2i+LIF	Normal	474	146.057 kb	SRR5815122
+Sample_0647	Stem Cell	Embryo	Control transfected (twice) V6.5 mESCs cultured for seven passages in 2i+LIF media	Normal	397	145.582 kb	SRR5815123
+Sample_0648	Stem Cell	Embryo	Control transfected (twice) V6.5 mESCs cultured for seven passages in 2i+LIF media	Normal	368	138.086 kb	SRR5815124
+Sample_0649	Stem Cell	Embryo	Control transfected (twice) V6.5 mESCs cultured for eight passages in 2i+LIF media	Normal	412	139.036 kb	SRR5815127
+Sample_0650	Stem Cell	Embryo	Control transfected (twice) V6.5 mESCs cultured for eight passages in 2i+LIF media	Normal	352	128.923 kb	SRR5815128
+Sample_0651	Stem Cell	Embryo	hES-to-Pancreatic endoderm cell	Normal	53482	20834.448 kb	SRR5459183
+Sample_0652	Stem Cell	Embryo	hES-to-Pancreatic endoderm cell	Normal	19740	7927.305 kb	SRR5459184
+Sample_0653	Stem Cell	Embryo	hES-to-Pancreatic endoderm cell	Normal	43807	18337.919 kb	SRR5459185
+Sample_0654	Cell Line	Embryo	HESC	Normal	104631	84699.213 kb	SRR5459169
+Sample_0655	Cell Line	Embryo	HESC	Normal	36226	12689.173 kb	SRR5459170
+Sample_0656	Cell Line	Embryo	HESC	Normal	19894	5741.08 kb	SRR5459171
+Sample_0657	Cell Line	Embryo	HESC	Normal	58065	28327.284 kb	SRR5459172
+Sample_0658	Cell Line	Embryo	HESC	Normal	39640	16421.995 kb	SRR5459173
+Sample_0659	Primary Cell	Blood	THP1 AML cell	Leukemia	19176	15169.45 kb	GSM2412284
+Sample_0660	Primary Cell	Blood	THP1 AML cell	Leukemia	26034	20217.239 kb	GSM2412285
+Sample_0661	Cell Line	Brain	OF4106	Other	39259	16516.61 kb	SRR5346034
+Sample_0662	Cell Line	Brain	OF4106	Other	36552	15074.377 kb	SRR5346035
+Sample_0663	Cell Line	Brain	OF4106	Other	41333	17546.825 kb	SRR5346036
+Sample_0664	Cell Line	Brain	OF4106	Other	32424	13183.979 kb	SRR5346037
+Sample_0665	Cell Line	Brain	OF4106	Other	31678	12866.092 kb	SRR5346038
+Sample_0666	Cell Line	Brain	OF4106	Other	38729	16150.55 kb	SRR5346039
+Sample_0667	Cell Line	Other	Ishikawa	Endometrial cancer	27480	9506.607 kb	SRR6653441
+Sample_0668	Cell Line	Other	Ishikawa	Endometrial cancer	10676	3361.491 kb	SRR6653442
+Sample_0669	Cell Line	Other	Ishikawa	Endometrial cancer	19192	6309.465 kb	SRR6653443
+Sample_0670	Cell Line	Other	Ishikawa	Endometrial cancer	2390	686.466 kb	SRR6653444
+Sample_0671	Cell Line	Foreskin	HFF	Normal	43426	18458.629 kb	SRR5856835
+Sample_0672	Cell Line	Foreskin	HFF	Normal	39114	16621.167 kb	SRR5856836
+Sample_0673	Cell Line	Foreskin	HFF	Normal	49890	22197.479 kb	SRR5856837
+Sample_0674	Cell Line	Foreskin	HFF	Normal	52498	23754.054 kb	SRR5856838
+Sample_0675	Cell Line	Foreskin	HFF	Normal	27994	10516.953 kb	SRR5856839
+Sample_0676	Cell Line	Foreskin	HFF	Normal	38135	15111.624 kb	SRR5856840
+Sample_0677	Cell Line	Foreskin	HFF	Normal	29366	11397.479 kb	SRR5856841
+Sample_0678	Cell Line	Foreskin	HFF	Normal	32344	12544.617 kb	SRR5856842
+Sample_0679	Cell Line	Foreskin	HFF	Normal	41645	17923.881 kb	SRR5856843
+Sample_0680	Cell Line	Foreskin	HFF	Normal	53634	23923.843 kb	SRR5856844
+Sample_0681	Cell Line	Foreskin	HFF	Normal	51731	22395.269 kb	SRR5856845
+Sample_0682	Cell Line	Foreskin	HFF	Normal	57126	24827.192 kb	SRR5856846
+Sample_0683	Cell Line	Foreskin	HFF	Normal	64330	34856.763 kb	GSM2688933
+Sample_0684	Cell Line	Foreskin	HFF	Normal	76609	40834.827 kb	GSM2688934
+Sample_0685	Cell Line	Foreskin	HFF	Normal	83139	42396.253 kb	GSM2688935
+Sample_0686	Cell Line	Foreskin	HFF	Normal	78655	37098.085 kb	GSM2688936
+Sample_0687	Cell Line	Foreskin	HFF	Normal	82409	47846.986 kb	GSM2688937
+Sample_0688	Cell Line	Foreskin	HFF	Normal	86685	45685.305 kb	GSM2688938
+Sample_0689	Cell Line	Foreskin	HFF	Normal	68313	40594.338 kb	GSM2688939
+Sample_0690	Cell Line	Foreskin	HFF	Normal	76449	42811.214 kb	GSM2688940
+Sample_0691	Cell Line	Foreskin	HFF	Normal	97944	52593.913 kb	GSM2688944
+Sample_0692	Cell Line	Blood	HL-60	Leukemia	37682	16115.356 kb	SRR5196902
+Sample_0693	Cell Line	Blood	HL-60	Leukemia	20014	8575.723 kb	SRR5196903
+Sample_0694	Cell Line	Blood	HL-60	Leukemia	19306	7711.435 kb	SRR5196904
+Sample_0695	Cell Line	Sarcomas	synovial sarcoma	Human Synovial sarcoma	25496	16094.046 kb	SRR6451611
+Sample_0696	Cell Line	Sarcomas	synovial sarcoma	Human Synovial sarcoma	64714	39382.068 kb	SRR6451612
+Sample_0697	Cell Line	Sarcomas	synovial sarcoma	Human Synovial sarcoma	29483	19168.333 kb	SRR6451613
+Sample_0698	Other	Other	Endometrial stromal cell	Normal	55231	29597.364 kb	SRR6148318
+Sample_0699	Other	Other	Endometrial stromal cell	Normal	97689	44196.585 kb	SRR6148319
+Sample_0700	Other	Other	Endometrial stromal cell	Normal	98300	43755.649 kb	SRR6148320
+Sample_0701	Other	Other	Endometrial stromal cell	Normal	153811	73834.355 kb	SRR6148321
+Sample_0702	Other	Other	Endometrial stromal cell	Normal	115316	50161.801 kb	SRR6148322
+Sample_0703	Primary Cell	Blood	Natural Killer cell	Normal	17010	6319.546 kb	SRR5006005
+Sample_0704	Primary Cell	Blood	Natural Killer cell	Normal	17335	6360.919 kb	SRR5006006
+Sample_0705	Primary Cell	Blood	Natural Killer cell	Normal	25715	10895.984 kb	SRR5006008
+Sample_0706	Primary Cell	Blood	Cultured T cell	Normal	14656	6615.492 kb	SRR6372866
+Sample_0707	Primary Cell	Blood	Cultured T cell	Normal	12886	5642.908 kb	SRR6372867
+Sample_0708	Primary Cell	Blood	Cultured T cell	Normal	24590	11510.406 kb	SRR6372868
+Sample_0709	Primary Cell	Blood	Cultured T cell	Normal	14990	7080.026 kb	SRR6372869
+Sample_0710	Cell Line	Other	BE2C	Neuroblastoma	72086	32536.306 kb	SRR3356447
+Sample_0711	Cell Line	Neuron	kelly	Neuroblastoma	31216	13395.794 kb	SRR3356448
+Sample_0712	Cell Line	Brain	NGP	Neuroblastoma	41909	19869.267 kb	SRR3356449
+Sample_0713	Cell Line	Bone marrow	SH-EP	Neuroblastoma	19734	9383.293 kb	SRR3356450
+Sample_0714	Cell Line	Blood	MM1S	Myeloma	34091	22466.228 kb	SRR3356451
+Sample_0715	Cell Line	Skin	BJ	Other	74051	28567.636 kb	GSM2430668
+Sample_0716	Cell Line	Skin	BJ	Other	83966	31778.048 kb	GSM2430669
+Sample_0717	Cell Line	Skin	BJ	Other	76394	31754.094 kb	GSM2430670
+Sample_0718	Cell Line	Skin	BJ	Other	60243	25458.05 kb	GSM2430671
+Sample_0719	Cell Line	Skin	BJ	Other	81776	42674.325 kb	GSM2430672
+Sample_0720	Cell Line	Foreskin	BJ-5ta	Normal	54213	19856.641 kb	SRR6667567
+Sample_0721	Cell Line	Foreskin	BJ-5ta	Normal	22445	11088.508 kb	SRR6667568
+Sample_0722	Cell Line	Foreskin	BJ-5ta	Normal	56679	31579.475 kb	SRR6667569
+Sample_0723	Cell Line	Foreskin	BJ-5ta	Normal	51786	28370.01 kb	SRR6667570
+Sample_0724	Cell Line	Foreskin	HUES64	Normal	104007	76019.702 kb	SRR6667571
+Sample_0725	Cell Line	Foreskin	HUES64	Normal	59551	45128.531 kb	SRR6667572
+Sample_0726	Cell Line	Blood	CCRF-CEM	Cultured cancer	12193	6214.639 kb	SRR5831755
+Sample_0727	Cell Line	Blood	CCRF-CEM	Cultured cancer	20918	13291.045 kb	SRR5831756
+Sample_0728	Cell Line	Blood	CCRF-CEM	Cultured cancer	19022	12289.329 kb	SRR5831757
+Sample_0729	Cell Line	Blood	CCRF-CEM	Cultured cancer	16977	9124.517 kb	SRR5831758
+Sample_0730	Cell Line	Blood	CCRF-CEM	Cultured cancer	18210	10047.796 kb	SRR5831759
+Sample_0731	Primary Cell	Blood	CCRF-CEM SLFN11-knockout	Cultured cancer	16841	8732.713 kb	SRR5831760
+Sample_0732	Cell Line	Blood	Lymphoblast	Cultured cancer	3907	1486.313 kb	SRR6288277
+Sample_0733	Cell Line	Blood	K562	Cultured cancer	4028	1548.865 kb	SRR6288278
+Sample_0734	Cell Line	Blood	Lymphoblast	Cultured cancer	9251	4177.9 kb	SRR6288279
+Sample_0735	Cell Line	Blood	Lymphoblast	Cultured cancer	3987	1421.178 kb	SRR6288280
+Sample_0736	Cell Line	Blood	Lymphoblast	Cultured cancer	7341	2888.715 kb	SRR6288281
+Sample_0737	Cell Line	Blood	Lymphoblast	Cultured cancer	9934	4238.385 kb	SRR6288282
+Sample_0738	Cell Line	Embryo	RUES2	Normal	97848	43232.132 kb	SRR6269272
+Sample_0739	Cell Line	Other	RUES2	Normal	61234	28396.674 kb	SRR6269273
+Sample_0740	Cell Line	Other	RUES2	Normal	81983	37068.384 kb	SRR6269274
+Sample_0741	Cell Line	Other	RUES2	Normal	51761	23869.947 kb	SRR6269275
+Sample_0742	Cell Line	Other	RUES2	Normal	58250	29437.44 kb	SRR6269276
+Sample_0743	Cell Line	Other	RUES2	Normal	44434	22169.957 kb	SRR6269277
+Sample_0744	Cell Line	Other	RUES2	Normal	27053	14461.483 kb	SRR6269278
+Sample_0745	Stem Cell	Hematopoietic	MSCiPS1-derived 5F hematopoietic cell	Normal	46326	16742.436 kb	SRR4820767
+Sample_0746	Stem Cell	Hematopoietic	MSCiPS1-derived 5F hematopoietic cell	Normal	26958	9427.814 kb	SRR4820768
+Sample_0747	Stem Cell	Hematopoietic	MSCiPS1-derived 5F hematopoietic cell	Normal	48724	16565.109 kb	SRR4820770
+Sample_0748	Induced pluripotent stem cell line	Blood	LCL	Other	23342	8705.129 kb	SRR6412826
+Sample_0749	Induced pluripotent stem cell line	Blood	LCL	Other	15687	5470.013 kb	SRR6412827
+Sample_0750	Induced pluripotent stem cell line	Blood	LCL	Other	42246	17639.716 kb	SRR6412828
+Sample_0751	Induced pluripotent stem cell line	Blood	LCL	Other	11086	3296.019 kb	SRR6412829
+Sample_0752	Induced pluripotent stem cell line	Blood	LCL	Other	30400	11352.568 kb	SRR6412830
+Sample_0753	Induced pluripotent stem cell line	Blood	LCL	Other	54878	21478.866 kb	SRR6412831
+Sample_0754	Induced pluripotent stem cell line	Blood	LCL	Other	27181	9995.77 kb	SRR6412832
+Sample_0755	Induced pluripotent stem cell line	Blood	LCL	Other	18520	6164.28 kb	SRR6412833
+Sample_0756	Induced pluripotent stem cell line	Blood	LCL	Other	26331	10799.23 kb	SRR6412834
+Sample_0757	Induced pluripotent stem cell line	Blood	LCL	Other	27841	11960.929 kb	SRR6412835
+Sample_0758	Induced pluripotent stem cell line	Blood	LCL	Other	10829	3232.927 kb	SRR6412836
+Sample_0759	Induced pluripotent stem cell line	Blood	LCL	Other	122876	60397.643 kb	SRR6412837
+Sample_0760	Induced pluripotent stem cell line	Blood	LCL	Other	22605	8686.376 kb	SRR6412838
+Sample_0761	Induced pluripotent stem cell line	Blood	LCL	Other	30942	11463.531 kb	SRR6412839
+Sample_0762	Induced pluripotent stem cell line	Blood	LCL	Other	17693	5362.19 kb	SRR6412840
+Sample_0763	Induced pluripotent stem cell line	Blood	LCL	Other	30963	11668.332 kb	SRR6412841
+Sample_0764	Induced pluripotent stem cell line	Blood	LCL	Other	28791	10596.199 kb	SRR6412842
+Sample_0765	Induced pluripotent stem cell line	Blood	LCL	Other	11248	3133.435 kb	SRR6412844
+Sample_0766	Stem Cell	iPSC	iPSC-NA18499	Other	2028	667.53 kb	SRR6412482
+Sample_0767	Stem Cell	iPSC	iPSC-NA18505	Other	61184	28591.604 kb	SRR6412483
+Sample_0768	Stem Cell	iPSC	iPSC-NA18520	Other	29352	12660.575 kb	SRR6412485
+Sample_0769	Stem Cell	iPSC	iPSC-NA18852	Other	78075	27244.824 kb	SRR6412486
+Sample_0770	Stem Cell	iPSC	iPSC-NA18855	Other	2850	1359.03 kb	SRR6412487
+Sample_0771	Stem Cell	iPSC	iPSC-NA18870	Other	44910	20942.091 kb	SRR6412488
+Sample_0772	Stem Cell	iPSC	iPSC-NA18912	Other	9208	4205.006 kb	SRR6412489
+Sample_0773	Stem Cell	iPSC	iPSC-NA19108	Other	138149	88629.544 kb	SRR6412491
+Sample_0774	Stem Cell	iPSC	iPSC-NA19116	Other	98123	61430.523 kb	SRR6412492
+Sample_0775	Stem Cell	iPSC	iPSC-NA19128	Other	9233	2869.016 kb	SRR6412493
+Sample_0776	Stem Cell	iPSC	iPSC-NA19160	Other	41499	23154.029 kb	SRR6412494
+Sample_0777	Stem Cell	iPSC	iPSC-NA19239	Other	53821	26284.667 kb	SRR6412410
+Sample_0778	Stem Cell	iPSC	iPSC-NA19257	Other	5997	2401.329 kb	SRR6412411
+Sample_0779	Stem Cell	iPSC	iPSC-NA19225	Other	63829	30462.445 kb	SRR6412412
+Sample_0780	Stem Cell	iPSC	iPSC-NA19210	Other	43025	29649.127 kb	SRR6412413
+Sample_0781	Stem Cell	iPSC	iPSC-NA19206	Other	38959	22723.567 kb	SRR6412415
+Sample_0782	Stem Cell	iPSC	iPSC-NA19204	Other	70471	31310.607 kb	SRR6412416
+Sample_0783	Stem Cell	iPSC	iPSC-NA19193	Other	56196	32707.437 kb	SRR6412417
+Sample_0784	Stem Cell	iPSC	iPSC-NA19192	Other	15337	5239.654 kb	SRR6412418
+Sample_0785	Stem Cell	iPSC	iPSC-NA19190	Other	19823	9664.045 kb	SRR6412419
+Sample_0786	Stem Cell	iPSC	iPSC-NA19171	Other	46973	31660.593 kb	SRR6412420
+Sample_0787	Stem Cell	iPSC	iPSC-NA19160	Other	52136	31626.445 kb	SRR6412421
+Sample_0788	Stem Cell	iPSC	iPSC-NA19159	Other	35049	17452.316 kb	SRR6412422
+Sample_0789	Stem Cell	iPSC	iPSC-NA19153	Other	85349	49215.836 kb	SRR6412423
+Sample_0790	Stem Cell	iPSC	iPSC-NA19144	Other	28790	16096.593 kb	SRR6412425
+Sample_0791	Stem Cell	iPSC	iPSC-NA19143	Other	61260	39002.647 kb	SRR6412426
+Sample_0792	Stem Cell	iPSC	iPSC-NA19140	Other	70634	47857.422 kb	SRR6412427
+Sample_0793	Stem Cell	iPSC	iPSC-NA19138	Other	1109	784.947 kb	SRR6412428
+Sample_0794	Stem Cell	iPSC	iPSC-NA19130	Other	40407	24171.108 kb	SRR6412429
+Sample_0795	Stem Cell	iPSC	iPSC-NA19128	Other	9284	2866.254 kb	SRR6412430
+Sample_0796	Stem Cell	iPSC	iPSC-NA19127	Other	46327	21870.581 kb	SRR6412431
+Sample_0797	Stem Cell	iPSC	iPSC-NA19119	Other	30566	17529.241 kb	SRR6412432
+Sample_0798	Stem Cell	iPSC	iPSC-NA19116	Other	56718	31385.168 kb	SRR6412433
+Sample_0799	Stem Cell	iPSC	iPSC-NA19114	Other	65545	36403.022 kb	SRR6412434
+Sample_0800	Stem Cell	iPSC	iPSC-NA19108	Other	82630	43188.539 kb	SRR6412435
+Sample_0801	Stem Cell	iPSC	iPSC-NA19102	Other	49863	29593.405 kb	SRR6412436
+Sample_0802	Stem Cell	iPSC	iPSC-NA19099	Other	9097	4006.451 kb	SRR6412437
+Sample_0803	Stem Cell	iPSC	iPSC-NA19098	Other	41226	23008.818 kb	SRR6412438
+Sample_0804	Stem Cell	iPSC	iPSC-NA18861	Other	60671	40660.732 kb	SRR6412446
+Sample_0805	Stem Cell	iPSC	iPSC-NA18859	Other	74204	46895.231 kb	SRR6412447
+Sample_0806	Stem Cell	iPSC	iPSC-NA18858	Other	66373	42361.829 kb	SRR6412448
+Sample_0807	Stem Cell	iPSC	iPSC-NA18856	Other	45145	27841.561 kb	SRR6412449
+Sample_0808	Stem Cell	iPSC	iPSC-NA18853	Other	36262	21543.643 kb	SRR6412451
+Sample_0809	Stem Cell	iPSC	iPSC-NA18852	Other	66912	37082.675 kb	SRR6412452
+Sample_0810	Stem Cell	iPSC	iPSC-NA18522	Other	52014	29724.397 kb	SRR6412453
+Sample_0811	Stem Cell	iPSC	iPSC-NA18520	Other	28223	13885.268 kb	SRR6412454
+Sample_0812	Stem Cell	iPSC	iPSC-NA18519	Other	45202	23286.887 kb	SRR6412455
+Sample_0813	Stem Cell	iPSC	iPSC-NA18517	Other	80831	53984.86 kb	SRR6412456
+Sample_0814	Stem Cell	iPSC	iPSC-NA18511	Other	56485	34872.722 kb	SRR6412457
+Sample_0815	Stem Cell	iPSC	iPSC-NA18510	Other	93854	55911.184 kb	SRR6412458
+Sample_0816	Stem Cell	iPSC	iPSC-NA18508	Other	26305	14836.906 kb	SRR6412459
+Sample_0817	Stem Cell	iPSC	iPSC-NA18505	Other	52750	27915.796 kb	SRR6412460
+Sample_0818	Stem Cell	iPSC	iPSC-NA18502	Other	59756	26580.779 kb	SRR6412461
+Sample_0819	Stem Cell	iPSC	iPSC-NA18501	Other	52117	28143.488 kb	SRR6412462
+Sample_0820	Stem Cell	iPSC	iPSC-NA18499	Other	24523	13391.597 kb	SRR6412463
+Sample_0821	Stem Cell	iPSC	iPSC-NA18498	Other	64618	33355.613 kb	SRR6412464
+Sample_0822	Stem Cell	iPSC	iPSC-NA18489	Other	8633	4059.412 kb	SRR6412465
+Sample_0823	Stem Cell	iPSC	iPSC-NA18486	Other	60524	39891.082 kb	SRR6412466
+Sample_0824	Primary Cell	Blood	YF	The Yellow fever	981	396.776 kb	SRR5839476
+Sample_0825	Primary Cell	Blood	YF	The Yellow fever	6980	2748.89 kb	SRR5839477
+Sample_0826	Primary Cell	Blood	YF	The Yellow fever	10716	3610.709 kb	SRR5839478
+Sample_0827	Primary Cell	Blood	YF	The Yellow fever	10768	5338.892 kb	SRR5839479
+Sample_0828	Primary Cell	Blood	YF	The Yellow fever	11211	4477.133 kb	SRR5839480
+Sample_0829	Primary Cell	Blood	YF	The Yellow fever	7899	2558.78 kb	SRR5839481
+Sample_0830	Primary Cell	Blood	YF	The Yellow fever	4428	1334.01 kb	SRR5839482
+Sample_0831	Primary Cell	Blood	YF	The Yellow fever	3741	1617.769 kb	SRR5839483
+Sample_0832	Primary Cell	Blood	YF	The Yellow fever	10649	4804.077 kb	SRR5839484
+Sample_0833	Primary Cell	Blood	YF	The Yellow fever	8751	3504.631 kb	SRR5839485
+Sample_0834	Primary Cell	Blood	YF	The Yellow fever	6607	2523.393 kb	SRR5839486
+Sample_0835	Primary Cell	Blood	YF	The Yellow fever	9265	3120.412 kb	SRR5839487
+Sample_0836	Primary Cell	Blood	YF	The Yellow fever	8638	3436.72 kb	SRR5839488
+Sample_0837	Primary Cell	Blood	YF	The Yellow fever	9390	3696.475 kb	SRR5839489
+Sample_0838	Primary Cell	Blood	YF	The Yellow fever	8298	3063.236 kb	SRR5839490
+Sample_0839	Cell Line	Blood	T_T	The Yellow fever	3693	1256.161 kb	SRR5839491
+Sample_0840	Cell Line	Blood	T_T	The Yellow fever	4204	1653.695 kb	SRR5839492
+Sample_0841	Cell Line	Blood	T_T	The Yellow fever	18620	7434.648 kb	SRR5839493
+Sample_0842	Cell Line	Blood	T_T	The Yellow fever	11834	4514.255 kb	SRR5839494
+Sample_0843	Cell Line	Blood	T_T	The Yellow fever	17944	8285.882 kb	SRR5839495
+Sample_0844	Cell Line	Blood	T_T	The Yellow fever	5307	2219.55 kb	SRR5839496
+Sample_0845	Cell Line	Blood	T_T	The Yellow fever	3592	1634.413 kb	SRR5839497
+Sample_0846	Cell Line	Blood	T_T	The Yellow fever	14812	4897.529 kb	SRR5839498
+Sample_0847	Cell Line	Blood	T_T	The Yellow fever	5341	2121.498 kb	SRR5839499
+Sample_0848	Cell Line	Blood	T_T	The Yellow fever	14655	8470.17 kb	SRR5839500
+Sample_0849	Cell Line	Blood	T_T	The Yellow fever	2540	971.211 kb	SRR5839501
+Sample_0850	Cell Line	Blood	T_T	The Yellow fever	21670	8092.959 kb	SRR5839502
+Sample_0851	Cell Line	Blood	T_T	The Yellow fever	15793	7152.58 kb	SRR5839503
+Sample_0852	Cell Line	Blood	T_T	The Yellow fever	16071	6616.836 kb	SRR5839504
+Sample_0853	Cell Line	Blood	T_T	The Yellow fever	11312	4002.784 kb	SRR5839505
+Sample_0854	Cell Line	Blood	T_T	The Yellow fever	13184	5398.114 kb	SRR5839506
+Sample_0855	Cell Line	Foreskin	foreskin_NHM1	Normal	111821	60081.939 kb	SRR5228487
+Sample_0856	Cell Line	Foreskin	SKmel147	Melanoma	54259	26445.16 kb	SRR5228488
+Sample_0857	Cell Line	Foreskin	501-Mel	Melanoma	53587	25282.711 kb	SRR5228489
+Sample_0858	Primary Cell	Bronchial	AAEC	Asthma	1713	589.171 kb	SRR6290071
+Sample_0859	Primary Cell	Bronchial	AAEC	Asthma	6818	1972.628 kb	SRR6290072
+Sample_0860	Primary Cell	Bronchial	AAEC	Asthma	11322	2942.672 kb	SRR6290073
+Sample_0861	Primary Cell	Bronchial	AAEC	Other	21918	10688.9 kb	SRR6290075
+Sample_0862	Primary Cell	Bronchial	AAEC	Other	18685	8474.936 kb	SRR6290076
+Sample_0863	Primary Cell	Bronchial	AAEC	Normal	14463	5547.495 kb	SRR6290080
+Sample_0864	Primary Cell	Bronchial	NHBEC	Normal	7070	1807.92 kb	SRR6290082
+Sample_0865	Cell Line	Mammary Gland	T47D	Breast cancer	37495	24547.378 kb	SRR5631444
+Sample_0866	Cell Line	Mammary Gland	T47D	Breast cancer	33320	22041.015 kb	SRR5631445
+Sample_0867	Cell Line	Mammary Gland	T47D	Breast cancer	37507	25246.355 kb	SRR5631446
+Sample_0868	Cell Line	Mammary Gland	T47D	Breast cancer	37419	24243.114 kb	SRR5631447
+Sample_0869	Cell Line	Mammary Gland	T47D	Breast cancer	35892	22846.991 kb	SRR5631448
+Sample_0870	Cell Line	Mammary Gland	T47D	Breast cancer	27165	17438.734 kb	SRR5631449
+Sample_0871	Cell Line	Other	TOV-21G	Ovarion cancer	24970	10185.53 kb	SRR5876661
+Sample_0872	Cell Line	Other	TOV-21G	Ovarion cancer	15724	6500.636 kb	SRR5876662
+Sample_0873	Cell Line	Other	TOV-21G	Ovarion cancer	28853	12382.92 kb	SRR5876663
+Sample_0874	Cell Line	Other	TOV-21G	Ovarion cancer	18518	7016.687 kb	SRR5876664
+Sample_0875	Cell Line	Colon	HCT116	Colorectal carcinoma	30702	12905.917 kb	SRR5876158
+Sample_0876	Cell Line	Colon	HCT116	Colorectal carcinoma	31334	12847.055 kb	SRR5876159
+Sample_0877	Cell Line	Colon	HCT116	Colorectal carcinoma	45857	22067.758 kb	SRR5876160
+Sample_0878	Cell Line	Colon	HCT116	Colorectal carcinoma	28723	12069.714 kb	SRR5876161
+Sample_0879	Cell Line	Colon	HCT116	Normal	33009	14796.004 kb	SRR5876162
+Sample_0880	Cell Line	Colon	HCT116	Normal	31166	13461.912 kb	SRR5876163
+Sample_0881	Cell Line	Colon	HCT116	Colorectal carcinoma	32063	14506.114 kb	SRR5876164
+Sample_0882	Cell Line	Colon	HCT116	Colorectal carcinoma	21995	9273.953 kb	SRR5876165
+Sample_0883	Cell Line	Blood	Jurkat	Leukemia	58074	40997.801 kb	SRR5063984
+Sample_0884	Cell Line	Blood	Jurkat	Leukemia	43310	29867.127 kb	SRR5063985
+Sample_0885	Cell Line	Blood	Jurkat	Leukemia	61769	41320.404 kb	SRR5063986
+Sample_0886	Cell Line	Blood	Jurkat	Leukemia	70715	48641.359 kb	SRR5063987
+Sample_0887	Cell Line	Blood	Jurkat	Leukemia	50251	39921.683 kb	SRR5063988
+Sample_0888	Cell Line	Blood	Jurkat	Leukemia	72964	51800.449 kb	SRR5063989
+Sample_0889	Cell Line	Blood	Jurkat	Leukemia	71035	48320.42 kb	SRR5063990
+Sample_0890	Cell Line	Blood	Jurkat	Leukemia	69263	50922.06 kb	SRR5063991
+Sample_0891	Cell Line	Blood	Jurkat	Leukemia	78899	48329.202 kb	SRR5063993
+Sample_0892	Cell Line	Blood	Jurkat	Leukemia	74938	50243.356 kb	SRR5063994
+Sample_0893	Cell Line	Blood	Jurkat	Leukemia	82176	62201.858 kb	SRR5063995
+Sample_0894	Cell Line	Pancreas	Pancreatic	Pancreatic cancer	72203	29097.441 kb	SRR5376214
+Sample_0895	Primary Cell	Lymphoblastoid	B cell	Epstein-Barr Virus (EBV)	21772	8896.638 kb	SRR5825999
+Sample_0896	Primary Cell	Lymphoblastoid	B cell	Epstein-Barr Virus (EBV)	21985	11616.565 kb	SRR5826000
+Sample_0897	Primary Cell	Lymphoblastoid	B cell	Epstein-Barr Virus (EBV)	20779	11394.934 kb	SRR5826001
+Sample_0898	Primary Cell	Lymphoblastoid	B cell	Epstein-Barr Virus (EBV)	19131	11103.938 kb	SRR5826002
+Sample_0899	Primary Cell	Lymphoblastoid	B cell	Epstein-Barr Virus (EBV)	22861	11927.684 kb	SRR5826003
+Sample_0900	Primary Cell	Lymphoblastoid	B cell	Epstein-Barr Virus (EBV)	22083	12350.231 kb	SRR5826004
+Sample_0901	Primary Cell	Lymphoblastoid	B cell	Epstein-Barr Virus (EBV)	18629	9370.678 kb	SRR5826005
+Sample_0902	Primary Cell	Lymphoblastoid	B cell	Epstein-Barr Virus (EBV)	22558	11884.792 kb	SRR5826006
+Sample_0903	Primary Cell	Other	Naive T-cell	Other	14481	6023.755 kb	SRR5831513
+Sample_0904	Primary Cell	Other	Naive T-cell	Other	12852	5225.51 kb	SRR5831514
+Sample_0905	Primary Cell	Other	Naive T-cell	Other	15173	6465.929 kb	SRR5831515
+Sample_0906	Primary Cell	Other	Naive T-cell	Other	16527	7309.738 kb	SRR5831516
+Sample_0907	Primary Cell	Other	Naive T-cell	Other	14578	6232.182 kb	SRR5831517
+Sample_0908	Primary Cell	Other	Naive T-cell	Other	15495	6677.68 kb	SRR5831518
+Sample_0909	Primary Cell	Cytokine-secreting T helper cell (Th) counterparts	Th17	Other	10325	3793.951 kb	SRR5831519
+Sample_0910	Primary Cell	Cytokine-secreting T helper cell (Th) counterparts	Th17	Other	12132	4815.229 kb	SRR5831520
+Sample_0911	Primary Cell	Cytokine-secreting T helper cell (Th) counterparts	Th17	Other	15465	6565.162 kb	SRR5831521
+Sample_0912	Primary Cell	Cytokine-secreting T helper cell (Th) counterparts	Th17	Other	13185	5096.884 kb	SRR5831522
+Sample_0913	Primary Cell	Cytokine-secreting T helper cell (Th) counterparts	Th17	Other	14959	6040.602 kb	SRR5831523
+Sample_0914	Primary Cell	Cytokine-secreting T helper cell (Th) counterparts	Th17	Other	11175	4262.779 kb	SRR5831524
+Sample_0915	Primary Cell	Other	Treg cell	Other	7667	2619.519 kb	SRR5831525
+Sample_0916	Primary Cell	Other	Treg cell	Other	15280	6594.882 kb	SRR5831526
+Sample_0917	Primary Cell	Other	Treg cell	Other	8960	3156.058 kb	SRR5831527
+Sample_0918	Primary Cell	Other	Treg cell	Other	12972	5188.368 kb	SRR5831528
+Sample_0919	Primary Cell	Other	Treg cell	Other	13923	6052.562 kb	SRR5831529
+Sample_0920	Primary Cell	Other	Treg cell	Other	16942	7906.313 kb	SRR5831530
+Sample_0921	Primary Cell	Other	Naive T cell	Other	15821	8121.577 kb	SRR5831531
+Sample_0922	Primary Cell	Other	Naive T cell	Other	18701	9932.919 kb	SRR5831532
+Sample_0923	Primary Cell	Cytokine-secreting T helper cell (Th) counterparts	Th17	Other	27087	17015.877 kb	SRR5831533
+Sample_0924	Primary Cell	Cytokine-secreting T helper cell (Th) counterparts	Th17	Other	26404	15347.967 kb	SRR5831534
+Sample_0925	Cell Line	Other	Treg	Other	19338	11491.022 kb	SRR5831535
+Sample_0926	Cell Line	Other	Treg	Other	23477	14011.275 kb	SRR5831536
+Sample_0927	Cell Line	Bone marrow	K562	Leukemia	18065	6533.712 kb	SRR5809234
+Sample_0928	Cell Line	Bone marrow	K562	Leukemia	47202	17452.34 kb	SRR5809235
+Sample_0929	Cell Line	Bone marrow	K562	Leukemia	28796	9604.945 kb	SRR5809236
+Sample_0930	Cell Line	Bone marrow	K562	Leukemia	13219	4694.586 kb	SRR5809237
+Sample_0931	Cell Line	Bone marrow	K562	Leukemia	9249	3776.47 kb	SRR5809238
+Sample_0932	Cell Line	Bone marrow	K562	Leukemia	15590	5011.219 kb	SRR5809239
+Sample_0933	Cell Line	Bone marrow	K562	Leukemia	2446	578.743 kb	SRR5809240
+Sample_0934	Cell Line	Bone marrow	K562	Leukemia	872	209.91 kb	SRR5809241
+Sample_0935	Cell Line	Bone marrow	K562	Leukemia	5921	1420.975 kb	SRR5809243
+Sample_0936	Cell Line	Bone marrow	K562	Leukemia	1851	467.567 kb	SRR5809244
+Sample_0937	Cell Line	Bone marrow	K562	Leukemia	1187	289.349 kb	SRR5809245
+Sample_0938	Cell Line	Bone marrow	K562	Leukemia	1139	278.389 kb	SRR5809246
+Sample_0939	Cell Line	Bone marrow	K562	Leukemia	1189	297.041 kb	SRR5809247
+Sample_0940	Cell Line	Blood	J-Lat-A72	HIV-1	19403	12724.313 kb	SRR5720369
+Sample_0941	Cell Line	Blood	J-Lat-A72	HIV-1	13517	9293.4 kb	SRR5720370
+Sample_0942	Cell Line	Blood	J-Lat-A72	HIV-1	20340	7266.715 kb	SRR5720371
+Sample_0943	Cell Line	Blood	J-Lat-A72	HIV-1	27748	10292.759 kb	SRR5720372
+Sample_0944	Cell Line	Breast	T47D	Breast cancer	11328	4400.488 kb	SRR5800797
+Sample_0945	Cell Line	Breast	T47D	Breast cancer	8962	3246.468 kb	SRR5800798
+Sample_0946	Cell Line	Breast	T47D	Breast cancer	13492	4678.888 kb	SRR5800799
+Sample_0947	Cell Line	Breast	T47D	Breast cancer	17585	5962.323 kb	SRR5800800
+Sample_0948	Cell Line	Breast	T47D	Breast cancer	8978	3501.666 kb	SRR5800801
+Sample_0949	Cell Line	Breast	T47D	Breast cancer	9349	3668.751 kb	SRR5800802
+Sample_0950	Cell Line	Fibroblast	GM02171	Normal	63431	19642.994 kb	SRR5878906
+Sample_0951	Cell Line	Fibroblast	GM02171	Normal	65219	16472.26 kb	SRR5878907
+Sample_0952	Cell Line	Fibroblast	GM02171	Normal	34301	10879.245 kb	SRR5878908
+Sample_0953	Cell Line	Fibroblast	GM02171	Normal	31716	9465.465 kb	SRR5878909
+Sample_0954	Cell Line	Fibroblast	GM02171	Normal	40181	13211.809 kb	SRR5878910
+Sample_0955	Cell Line	Fibroblast	GM02171	Normal	39553	13097.692 kb	SRR5878911
+Sample_0956	Cell Line	Fibroblast	GM02171	Normal	38018	15537.846 kb	SRR5878912
+Sample_0957	Cell Line	Fibroblast	GM02171	Normal	42707	19887.66 kb	SRR5878913
+Sample_0958	Cell Line	Fibroblast	GM02171	Normal	15437	5343.399 kb	SRR5878914
+Sample_0959	Cell Line	Fibroblast	GM02171	Normal	29204	9842.487 kb	SRR5878915
+Sample_0960	Cell Line	Mammary Gland	MCF7	Breast cancer	101091	49644.601 kb	SRR5857005
+Sample_0961	Cell Line	Mammary Gland	MCF7	Breast cancer	83756	45657.569 kb	SRR5857006
+Sample_0962	Cell Line	Mammary Gland	MCF7	Breast cancer	71281	39183.856 kb	SRR5857007
+Sample_0963	Cell Line	Mammary Gland	MCF7	Breast cancer	77440	45481.567 kb	SRR5857008
+Sample_0964	Stem Cell	Fibroblast	Fibroblast	Other	8649	3162.074 kb	SRR2097503
+Sample_0965	Stem Cell	Fibroblast	Fibroblast	Other	9541	3450.807 kb	SRR2097504
+Sample_0966	Stem Cell	Cortical Neurons	Cortical NSC	Other	21742	10621.954 kb	SRR2097505
+Sample_0967	Stem Cell	Cortical Neurons	Cortical NSC	Other	25430	12881.641 kb	SRR2097506
+Sample_0968	Stem Cell	Cortical Neurons	Cortical NSC	Other	11220	4827.147 kb	SRR2097507
+Sample_0969	Stem Cell	Cortical Neurons	Cortical NSC	Other	15524	7128.382 kb	SRR2097508
+Sample_0970	Stem Cell	Embryo	Embryo	Normal	66873	20708.51 kb	SRR5453679
+Sample_0971	Stem Cell	Cortex	MGE organoids	Normal	64415	25786.788 kb	SRR5453680
+Sample_0972	Stem Cell	Cortex	Cortex	Normal	61112	26723.36 kb	SRR5453681
+Sample_0973	Cell Line	Glioblastoma	G523NS	Glioblastoma	31062	12015.138 kb	SRR5057780
+Sample_0974	Cell Line	Glioblastoma	G523NS	Glioblastoma	49243	24551.178 kb	SRR5057781
+Sample_0975	Cell Line	Glioblastoma	G523NS	Glioblastoma	29906	13488.351 kb	SRR5057782
+Sample_0976	Primary Cell	Glioblastoma	GBM	Glioblastoma	31946	15998.907 kb	SRR5057783
+Sample_0977	Cell Line	Lung	PC-9	Lung cancer	57164	17449.122 kb	SRR5800657
+Sample_0978	Cell Line	Lung	PC-9	Lung cancer	61446	22038.996 kb	SRR5800658
+Sample_0979	Cell Line	Lung	PC-9	Lung cancer	65849	18350.287 kb	SRR5800659
+Sample_0980	Cell Line	Lung	PC-9	Lung cancer	65568	32198.879 kb	SRR5800660
+Sample_0981	Cell Line	Lung	PC-9	Lung cancer	76164	30116.863 kb	SRR5800661
+Sample_0982	Cell Line	Lung	PC-9	Lung cancer	86340	33784.474 kb	SRR5800662
+Sample_0983	Cell Line	Lung	PC-9	Lung cancer	28794	11125.078 kb	SRR5800663
+Sample_0984	Cell Line	Lung	PC-9	Lung cancer	30561	12977.677 kb	SRR5800664
+Sample_0985	Cell Line	Lung	PC-9	Lung cancer	30654	12939.9 kb	SRR5800665
+Sample_0986	Cell Line	Lung	PC-9	Lung cancer	33301	13019.459 kb	SRR5800666
+Sample_0987	Cell Line	Lung	PC-9	Lung cancer	34068	13877.702 kb	SRR5800667
+Sample_0988	Cell Line	Lung	PC-9	Lung cancer	31905	12420.897 kb	SRR5800668
+Sample_0989	Cell Line	Lung	PC-9	Lung cancer	39092	16656.439 kb	SRR5800669
+Sample_0990	Cell Line	Lung	PC-9	Lung cancer	35532	14400.377 kb	SRR5800670
+Sample_0991	Cell Line	Lung	PC-9	Lung cancer	36333	15973.414 kb	SRR5800671
+Sample_0992	Cell Line	Lung	PC-9	Lung cancer	38943	15943.096 kb	SRR5800672
+Sample_0993	Cell Line	Lung	PC-9	Lung cancer	35619	15989.072 kb	SRR5800673
+Sample_0994	Cell Line	Lung	PC-9	Lung cancer	39076	17050.919 kb	SRR5800674
+Sample_0995	Cell Line	Lung	PC-9	Lung cancer	53943	21552.562 kb	SRR2927084
+Sample_0996	Cell Line	Lung	PC-9	Lung cancer	64091	23045.826 kb	SRR2927085
+Sample_0997	Cell Line	Lung	PC-9	Lung cancer	74394	25527.415 kb	SRR2927086
+Sample_0998	Primary Cell	Peripheral blood	monocyte-derived macrophages	Normal	79808	31690.492 kb	SRR5487871
+Sample_0999	Primary Cell	Peripheral blood	monocyte-derived macrophages	Normal	84990	39464.4 kb	SRR5487872
+Sample_1000	Primary Cell	Peripheral blood	monocyte-derived macrophages	Normal	86609	37102.66 kb	SRR5487873
+Sample_1001	Stem Cell	Blood	Stem Cell	Normal	38235	20479.318 kb	SRR5489430
+Sample_1002	Stem Cell	Blood	Stem Cell	Normal	33320	12095.694 kb	SRR5489431
+Sample_1003	Cell Line	Other	JHU-06	Other	32734	11580.958 kb	SRR5029204
+Sample_1004	Cell Line	Other	JHU-06	Other	37030	13625.407 kb	SRR5029205
+Sample_1005	Cell Line	Other	JHU-06	Other	36336	12116.52 kb	SRR5029206
+Sample_1006	Cell Line	Other	JHU-06	Other	17032	6300.4 kb	SRR5029207
+Sample_1007	Cell Line	Other	JHU-06	Other	61985	20471.034 kb	SRR5029208
+Sample_1008	Cell Line	Other	JHU-06	Other	94799	36483.697 kb	SRR5029209
+Sample_1009	Cell Line	Other	JHU-06	Other	41615	14787.832 kb	SRR5029210
+Sample_1010	Cell Line	Other	JHU-06	Other	37144	15676.891 kb	SRR5029211
+Sample_1011	Cell Line	Kidney	HEK293T	Normal	785	497.383 kb	SRR5627154
+Sample_1012	Cell Line	Kidney	HEK293T	Normal	5	3.018 kb	SRR5627155
+Sample_1013	Cell Line	Kidney	HEK293T	Normal	913	576.769 kb	SRR5627156
+Sample_1014	Cell Line	Kidney	HEK293T	Normal	1137	674.814 kb	SRR5627157
+Sample_1015	Cell Line	Colon	HCT116	Cancer	47506	21895.667 kb	SRR5453778
+Sample_1016	Cell Line	Colon	HCT116	Cancer	14297	3127.452 kb	SRR5453779
+Sample_1017	Primary Cell	Blood	CD8 T cell	Normal	30886	20486.896 kb	SRR4568585
+Sample_1018	Primary Cell	Blood	CD8 T cell	Normal	34433	23653.745 kb	SRR4568586
+Sample_1019	Primary Cell	Blood	CD8 T cell	Normal	31422	22090.454 kb	SRR4568588
+Sample_1020	Primary Cell	Blood	CD8 T cell	Normal	36763	26115.842 kb	SRR4568590
+Sample_1021	Primary Cell	Blood	CD8 T cell	Normal	34992	24218.628 kb	SRR4568591
+Sample_1022	Primary Cell	Blood	CD8 T cell	Melanoma	34202	24295.978 kb	SRR4568592
+Sample_1023	Primary Cell	Blood	CD8 T cell	Melanoma	37081	26344.259 kb	SRR4568593
+Sample_1024	Primary Cell	Lung	CD8 T cell	Lung cancer	26037	16942.794 kb	SRR4568594
+Sample_1025	Primary Cell	Peripheral blood	Macrophage	Normal	14930	5587.141 kb	SRR4450160
+Sample_1026	Primary Cell	Peripheral blood	Macrophage	Normal	20618	9779.056 kb	SRR4450161
+Sample_1027	Primary Cell	Peripheral blood	Macrophage	Normal	21440	8385.815 kb	SRR4450162
+Sample_1028	Primary Cell	Peripheral blood	Macrophage	Normal	42823	22302.386 kb	SRR4450163
+Sample_1029	Cell Line	Bone marrow	K-562	Erythroleukemic	9019	3710.573 kb	SRR5128066
+Sample_1030	Cell Line	Bone marrow	K-562	Erythroleukemic	6817	2828.327 kb	SRR5128067
+Sample_1031	Cell Line	Bone marrow	K-562	Erythroleukemic	8667	3667.214 kb	SRR5128068
+Sample_1032	Cell Line	Bone marrow	K-562	Erythroleukemic	9635	4194.728 kb	SRR5128069
+Sample_1033	Cell Line	Bone marrow	K-562	Erythroleukemic	6686	2614.247 kb	SRR5128070
+Sample_1034	Cell Line	Bone marrow	K-562	Erythroleukemic	8489	3575.466 kb	SRR5128071
+Sample_1035	Cell Line	Bone marrow	K-562	Erythroleukemic	14396	4601.36 kb	SRR5128072
+Sample_1036	Cell Line	Bone marrow	K-562	Erythroleukemic	10169	4431.619 kb	SRR5128073
+Sample_1037	Cell Line	Bone marrow	K-562	Erythroleukemic	9831	4097.271 kb	SRR5128074
+Sample_1038	Cell Line	Bone marrow	K-562	Erythroleukemic	11115	5643.286 kb	SRR5128075
+Sample_1039	Cell Line	Bone marrow	K-562	Erythroleukemic	8137	3637.456 kb	SRR5128076
+Sample_1040	Cell Line	Bone marrow	K-562	Erythroleukemic	9454	4294.889 kb	SRR5128077
+Sample_1041	Cell Line	Embryo	H1	Normal	1	0.741 kb	SRR3471193
+Sample_1042	Cell Line	Embryo	H1	Normal	1	0.203 kb	SRR3471202
+Sample_1043	Cell Line	Embryo	H1	Normal	91543	56364.898 kb	SRR5007258
+Sample_1044	Cell Line	Embryo	H1	Normal	73021	44386.882 kb	SRR5007259
+Sample_1045	Cell Line	Embryo	H1	Normal	44634	23696.07 kb	SRR5007260
+Sample_1046	Cell Line	Embryo	H1	Normal	58120	31374.016 kb	SRR5007262
+Sample_1047	Cell Line	Embryo	H1	Normal	58153	33532.22 kb	SRR5007264
+Sample_1048	Cell Line	Embryo	H1	Normal	50187	25764.339 kb	SRR5007265
+Sample_1049	Cell Line	Other	WM989	Melanoma	19138	6252.343 kb	SRR5444780
+Sample_1050	Cell Line	Other	WM989	Melanoma	16341	6266.499 kb	SRR5444781
+Sample_1051	Cell Line	Other	WM989	Melanoma	36682	12916.93 kb	SRR5444783
+Sample_1052	Cell Line	Other	WM989	Melanoma	17075	5693.218 kb	SRR5444784
+Sample_1053	Cell Line	Other	WM989	Melanoma	48799	18076.462 kb	SRR5444785
+Sample_1054	Cell Line	Other	WM989	Melanoma	60793	23740.959 kb	SRR5444786
+Sample_1055	Cell Line	Other	WM989	Melanoma	23339	7597.073 kb	SRR5444788
+Sample_1056	Cell Line	Other	WM989	Melanoma	28695	9585.141 kb	SRR5444790
+Sample_1057	Cell Line	Other	WM989	Melanoma	41605	14631.729 kb	SRR5444791
+Sample_1058	Cell Line	Other	WM989	Melanoma	65879	26065.8 kb	SRR5444793
+Sample_1059	Cell Line	Other	WM989	Melanoma	59178	23815.151 kb	SRR5444794
+Sample_1060	Cell Line	Other	WM989	Melanoma	50610	19569.303 kb	SRR5444795
+Sample_1061	Cell Line	Other	WM989	Melanoma	50721	19799.489 kb	SRR5444796
+Sample_1062	Other	Myeloid	HL-60 cells (ATCC)	Other	34379	15818.301 kb	SRR3213963
+Sample_1063	Other	Myeloid	Macrophage	Other	11894	4632.858 kb	SRR3213966
+Sample_1064	Other	Myeloid	Macrophage	Other	13186	5562.512 kb	SRR3213969
+Sample_1065	Other	Myeloid	Macrophage	Other	23019	10579.223 kb	SRR3213972
+Sample_1066	Other	Myeloid	Macrophage	Other	46854	21712.24 kb	SRR3213975
+Sample_1067	Other	Myeloid	Macrophage	Other	14329	6265.335 kb	SRR3213978
+Sample_1068	Other	Myeloid	Macrophage	Other	654	309.133 kb	SRR3213981
+Sample_1069	Other	Myeloid	Macrophage	Other	5595	2092.834 kb	SRR3213984
+Sample_1070	Cell Line	Other	THP-1	Other	44029	22389.828 kb	SRR5359592
+Sample_1071	Cell Line	Other	THP-1	Other	72360	37071.537 kb	SRR5359594
+Sample_1072	Cell Line	Other	THP-1	Other	61864	31445.377 kb	SRR5359595
+Sample_1073	Cell Line	Other	THP-1	Other	54055	23593.019 kb	SRR5359596
+Sample_1074	Cell Line	Other	THP-1	Other	36485	18837.889 kb	SRR5359600
+Sample_1075	Cell Line	Other	THP-1	Other	45164	24603.215 kb	SRR5359601
+Sample_1076	Cell Line	Other	THP-1	Other	63947	33596.815 kb	SRR5359602
+Sample_1077	Cell Line	Other	THP-1	Other	34149	17525.57 kb	SRR5359604
+Sample_1078	Cell Line	Other	THP-1	Other	39945	22111.591 kb	SRR5359605
+Sample_1079	Cell Line	Other	THP-1	Other	62349	32624.237 kb	SRR5359606
+Sample_1080	Cell Line	Other	THP-1	Other	51217	27427.983 kb	SRR5359607
+Sample_1081	Cell Line	Foreskin	HFF	Normal	89187	38107.411 kb	SRR3295017
+Sample_1082	Cell Line	Foreskin	HFF	Normal	55283	19280.19 kb	SRR3295018
+Sample_1083	Cell Line	Foreskin	HFF	Normal	69878	29377.264 kb	SRR3295019
+Sample_1084	Cell Line	Foreskin	HFF	Normal	76354	30867.375 kb	SRR3295020
+Sample_1085	Cell Line	Foreskin	HFF	Normal	55531	20679.36 kb	SRR3295021
+Sample_1086	Cell Line	Foreskin	HFF	Normal	40381	13551.644 kb	SRR3295022
+Sample_1087	Cell Line	Other	D283	Medulloblastoma	70839	29463.102 kb	SRR5120872
+Sample_1088	Cell Line	Skin	BJ	Normal	43043	21490.795 kb	GSM2174875
+Sample_1089	Cell Line	Skin	BJ	Normal	87464	59104.039 kb	GSM2174876
+Sample_1090	Cell Line	Skin	BJ	Normal	86434	57858.605 kb	GSM2174877
+Sample_1091	Cell Line	Skin	BJ	Normal	69157	43706.711 kb	GSM2174878
+Sample_1092	Cell Line	Skin	BJ	Normal	75859	50333.393 kb	GSM2174879
+Sample_1093	Cell Line	Skin	BJ	Normal	98690	68579.141 kb	GSM2174880
+Sample_1094	Cell Line	Skin	BJ	Normal	69509	37603.91 kb	GSM2174881
+Sample_1095	Cell Line	Skin	BJ	Normal	88438	58924.512 kb	GSM2174882
+Sample_1096	Cell Line	Blood	CEM	Leukemia	3577	1649.758 kb	SRR5123141
+Sample_1097	Cell Line	Blood	CEM	Leukemia	2538	1021.354 kb	SRR5123142
+Sample_1098	Cell Line	Breast	MCF-10A	Breast cancer	727	502.245 kb	SRR4436439
+Sample_1099	Cell Line	Breast	MCF-10A	Breast cancer	16323	5354.536 kb	SRR4436441
+Sample_1100	Other	Blood	Monocyte	Other	40437	16511.895 kb	SRR4289800
+Sample_1101	Other	Blood	Monocyte	Other	33628	13225.449 kb	SRR4289803
+Sample_1102	Other	Blood	Monocyte	Other	57430	23935.647 kb	SRR4289804
+Sample_1103	Other	Blood	Monocyte	Other	25023	11400.853 kb	SRR4289805
+Sample_1104	Other	Blood	Monocyte	Other	36172	15635.381 kb	SRR4289806
+Sample_1105	Other	Blood	Monocyte	Other	27511	9538.848 kb	SRR4289812
+Sample_1106	Cell Line	Lung	MRC-5	Normal	56188	19322.855 kb	SRR3438293
+Sample_1107	Cell Line	Lung	MRC-5	Normal	60049	22927.939 kb	SRR3438294
+Sample_1108	Cell Line	Lung	MRC-5	Normal	73041	31835.209 kb	SRR3438295
+Sample_1109	Cell Line	Lung	MRC-5	Normal	41435	16335.59 kb	SRR3438296
+Sample_1110	Cell Line	Other	GM12878	Normal	3259	1742.074 kb	SRR3336947
+Sample_1111	Cell Line	Other	GM12878	Normal	2497	1291.375 kb	SRR3336948
+Sample_1112	Cell Line	Other	GM12878	Normal	13914	7311.347 kb	SRR3336949
+Sample_1113	Cell Line	Other	GM12878	Normal	9686	4944.317 kb	SRR3336951
+Sample_1114	Cell Line	Other	GM12878	Normal	8200	4236.738 kb	SRR3336952
+Sample_1115	Cell Line	Blood	GM12878	Normal	24433	10903.301 kb	SRR2999313
+Sample_1116	Cell Line	Blood	GM12878	Normal	34406	15489.304 kb	SRR2999314
+Sample_1117	Cell Line	Blood	GM12878	Normal	21714	9810.857 kb	SRR2999315
+Sample_1118	Cell Line	Connective tissue	HT1080	Fibroscarcoma	59973	27499.895 kb	SRR2999316
+Sample_1119	Cell Line	Connective tissue	HT1080	Fibroscarcoma	49836	23235.522 kb	SRR2999317
+Sample_1120	Cell Line	Connective tissue	HT1080	Fibroscarcoma	40122	18653.273 kb	SRR2999318
+Sample_1121	Cell Line	Connective tissue	HT1080	Fibroscarcoma	46325	23160.028 kb	SRR2999319
+Sample_1122	Cell Line	Connective tissue	HT1080	Fibroscarcoma	73220	36430.238 kb	SRR2999320
+Sample_1123	Cell Line	Connective tissue	HT1080	Fibroscarcoma	46072	18802.531 kb	SRR2999321
+Sample_1124	Cell Line	Connective tissue	HT1080	Fibroscarcoma	59650	29290.738 kb	SRR2999322
+Sample_1125	Cell Line	Connective tissue	HT1080	Fibroscarcoma	58478	27946.698 kb	SRR2999323
+Sample_1126	Primary Cell	Other	neutrophil	Normal	2114	1223.457 kb	SRR2999324
+Sample_1127	Primary Cell	Other	neutrophil	Normal	2396	1319.304 kb	SRR2999325
+Sample_1128	Primary Cell	Other	neutrophil	Normal	3395	1413.608 kb	SRR2999326
+Sample_1129	Primary Cell	Other	neutrophil	Normal	799	329.487 kb	SRR2999327
+Sample_1130	Primary Cell	Other	neutrophil	Normal	1570	1226.88 kb	SRR2999328
+Sample_1131	Primary Cell	Other	neutrophil	Normal	2185	1638.002 kb	SRR2999329
+Sample_1132	Primary Cell	Other	neutrophil	Normal	1063	851.317 kb	SRR2999330
+Sample_1133	Primary Cell	Other	neutrophil	Normal	1894	1454.791 kb	SRR2999331
+Sample_1134	Primary Cell	Other	neutrophil	Normal	1303	695.248 kb	SRR2999332
+Sample_1135	Primary Cell	Other	neutrophil	Normal	504	306.806 kb	SRR2999333
+Sample_1136	Cell Line	Fibroblast	FL3	Other	50951	24735.731 kb	SRR3066437
+Sample_1137	Cell Line	Fibroblast	FL3	Other	47172	22513.275 kb	SRR3066438
+Sample_1138	Cell Line	Fibroblast	FL3	Other	58141	29184.603 kb	SRR3066439
+Sample_1139	Cell Line	Fibroblast	FL3	Other	56760	27752.502 kb	SRR3066440
+Sample_1140	Cell Line	Fibroblast	FL3	Other	51456	21544.879 kb	SRR3066441
+Sample_1141	Cell Line	Fibroblast	FL3	Other	52723	23101.505 kb	SRR3066442
+Sample_1142	Cell Line	Fibroblast	FL3	Other	72802	34289.525 kb	SRR3066443
+Sample_1143	Cell Line	Fibroblast	FL3	Other	49089	19049.012 kb	SRR3066444
+Sample_1144	Cell Line	Fibroblast	FL3	Other	55500	23831.503 kb	SRR3066445
+Sample_1145	Cell Line	Fibroblast	FL3	Other	40367	14679.823 kb	SRR3066446
+Sample_1146	Cell Line	Fibroblast	FL3	Other	82364	37547.537 kb	SRR3066447
+Sample_1147	Cell Line	Fibroblast	FL3	Other	76467	33597.751 kb	SRR3066448
+Sample_1148	Cell Line	Fibroblast	FL3	Other	88415	48813.708 kb	SRR3066449
+Sample_1149	Cell Line	Fibroblast	FL3	Other	71563	39854.572 kb	SRR3066450
+Sample_1150	Cell Line	Fibroblast	FL3	Other	82804	46345.158 kb	SRR3066451
+Sample_1151	Cell Line	Fibroblast	FL3	Other	91651	53176.696 kb	SRR3066452
+Sample_1152	Cell Line	Fibroblast	FL3	Other	75141	42441.228 kb	SRR3066453
+Sample_1153	Cell Line	Fibroblast	FL3	Other	78081	46487.812 kb	SRR3066454
+Sample_1154	Cell Line	Fibroblast	FL3	Other	87614	55275.366 kb	SRR3066455
+Sample_1155	Cell Line	Fibroblast	FL3	Other	80194	45036.571 kb	SRR3066456
+Sample_1156	Cell Line	Fibroblast	FL3	Other	67421	25072.213 kb	SRR3066458
+Sample_1157	Cell Line	Fibroblast	FL3	Other	109618	53591.903 kb	SRR3066459
+Sample_1158	Cell Line	Fibroblast	FL3	Other	86406	36670.17 kb	SRR3066460
+Sample_1159	Tissue	Artery	HCASMC	Coronary artery disease	113833	77971.343 kb	SRR2378583
+Sample_1160	Tissue	Artery	HCASMC	Coronary artery disease	130768	76396.926 kb	SRR2378585
+Sample_1161	Tissue	Artery	HCASMC	Normal	140932	82648.116 kb	SRR2378586
+Sample_1162	Tissue	Artery	HCASMC	Normal	145846	92462.973 kb	SRR2378588
+Sample_1163	Tissue	Artery	HCASMC	Normal	158952	77255.984 kb	SRR2378590
+Sample_1164	Tissue	Artery	HCASMC	Normal	32619	19133.604 kb	SRR2378591
+Sample_1165	Tissue	Artery	HCASMC	Normal	41805	24110.73 kb	SRR2378593
+Sample_1166	Tissue	Artery	HCASMC	Normal	1705	995.456 kb	SRR2378594
+Sample_1167	Tissue	Artery	HCASMC	Normal	33938	18833.38 kb	SRR2378595
+Sample_1168	Tissue	Artery	HCASMC	Normal	10034	4297.331 kb	SRR2378596
+Sample_1169	Primary Cell	Blood	CD19+ B cell	Normal	28729	9735.68 kb	SRR2126766
+Sample_1170	Primary Cell	Blood	CD19+ B cell	Normal	36256	12834.073 kb	SRR2126767
+Sample_1171	Primary Cell	Blood	CD19+ B cell	Normal	39175	15314.702 kb	SRR2126768
+Sample_1172	Primary Cell	Blood	CD19+ B cell	Normal	33070	13476.013 kb	SRR2126769
+Sample_1173	Primary Cell	Blood	CD19+ B cell	Normal	30213	19901.181 kb	SRR2126770
+Sample_1174	Primary Cell	Blood	CD19+ B cell	Normal	38690	29658.226 kb	SRR2126771
+Sample_1175	Primary Cell	Blood	CD19+ B cell	Normal	40752	26035.402 kb	SRR2126772
+Sample_1176	Primary Cell	Blood	CD19+ B cell	Normal	34903	25254.261 kb	SRR2126773
+Sample_1177	Primary Cell	Blood	CD19+ B cell	Normal	33517	22774.795 kb	SRR3158176
+Sample_1178	Primary Cell	Blood	CD19+ B cell	Normal	23552	14055.058 kb	SRR3158177
+Sample_1179	Primary Cell	Blood	CD19+ B cell	Normal	30380	23832.708 kb	SRR3158178
+Sample_1180	Primary Cell	Peripheral blood	EB-HSPC	Normal	42737	18605.649 kb	SRR3095971
+Sample_1181	Primary Cell	Peripheral blood	EB-HSPC	Normal	22767	12491.288 kb	SRR3095972
+Sample_1182	Primary Cell	Peripheral blood	EB-HSPC	Normal	33356	16018.514 kb	SRR3095973
+Sample_1183	Primary Cell	Peripheral blood	EB-HSPC	Normal	16627	8971.326 kb	SRR3095974
+Sample_1184	Primary Cell	Tonsil	ILC	Normal	18368	13991.759 kb	SRR3129110
+Sample_1185	Primary Cell	Tonsil	ILC	Normal	2167	1372.471 kb	SRR3129112
+Sample_1186	Primary Cell	Tonsil	ILC	Normal	20027	14851.071 kb	SRR3129113
+Sample_1187	Primary Cell	Tonsil	Th17	Normal	40207	31066.242 kb	SRR3129114
+Sample_1188	Primary Cell	Tonsil	Th17	Normal	5271	2653.665 kb	SRR3129115
+Sample_1189	Primary Cell	Blood	Natural Killer Cell	Normal	1131	1071.427 kb	SRR3129116
+Sample_1190	Primary Cell	Blood	Natural Killer Cell	Normal	30102	21705.399 kb	SRR3129117
+Sample_1191	Cell Line	Blood	LNCaP	Normal	609	285.899 kb	GSM1708258
+Sample_1192	Cell Line	Blood	LNCaP	Normal	8431	4599.116 kb	GSM1708259
+Sample_1193	Cell Line	Prostate	LNCaP	Adenocarcinoma	1266	548.138 kb	GSM1708260
+Sample_1194	Cell Line	Blood	PBMC	Normal	713	331.746 kb	GSM1708261
+Sample_1195	Cell Line	Blood	PBMC	Normal	5924	2743.374 kb	GSM1708262
+Sample_1196	Cell Line	Blood	PBMC	Normal	634	392.425 kb	GSM1708267
+Sample_1197	Other	Other	HCASMC	Hemoglobinopathies	7984	3283.976 kb	GSM1939567
+Sample_1198	Other	Other	HCASMC	Hemoglobinopathies	11799	5265.396 kb	GSM1939568
+Sample_1199	Other	Other	HCASMC	Hemoglobinopathies	9874	4323.368 kb	GSM1939569
+Sample_1200	Other	Other	HCASMC	Hemoglobinopathies	14591	6413.956 kb	GSM1939570
+Sample_1201	Other	Other	HUDEP-2	Hemoglobinopathies	7872	3156.321 kb	GSM1939571
+Sample_1202	Other	Other	HCASMC	Hemoglobinopathies	16059	7484.394 kb	GSM1939572
+Sample_1203	Other	Other	HCASMC	Hemoglobinopathies	32712	22084.323 kb	GSM1939574
+Sample_1204	Cell Line	Blood	GM12878	Normal	52127	15765.434 kb	SRR2171236
+Sample_1205	Cell Line	Blood	GM12878	Normal	65937	20483.947 kb	SRR2171237
+Sample_1206	Cell Line	Blood	GM12878	Normal	62742	18684.928 kb	SRR2171246
+Sample_1207	Cell Line	Blood	GM12878	Normal	61899	18320.283 kb	SRR2171247
+Sample_1208	Cell Line	Blood	GM12878	Normal	83548	26889.835 kb	SRR2171248
+Sample_1209	Cell Line	Blood	GM12878	Normal	85630	27745.814 kb	SRR2171249
+Sample_1210	Cell Line	Blood	GM12878	Normal	25	8.132 kb	SRR2171250
+Sample_1211	Tissue	Pancreas	Pancreatic islet	Normal	28588	16054.248 kb	GSM1978243
+Sample_1212	Tissue	Pancreas	Pancreatic islet	Normal	84330	47560.716 kb	GSM1978245
+Sample_1213	Tissue	Pancreas	Pancreatic islet	Normal	32375	18050.837 kb	GSM1978246
+Sample_1214	Tissue	Pancreas	Pancreatic islet	Normal	21834	11161.956 kb	GSM1978247
+Sample_1215	Tissue	Pancreas	Pancreatic islet	Normal	22681	11192.528 kb	GSM1978249
+Sample_1216	Tissue	Pancreas	Pancreatic islet	Normal	37296	18647.889 kb	GSM1978250
+Sample_1217	Stem Cell	Other	Glioblastoma cell	Glioblastoma	3597	1197.304 kb	SRR1957098
+Sample_1218	Stem Cell	Other	Glioblastoma cell	Glioblastoma	232	84.612 kb	SRR1957099
+Sample_1219	Stem Cell	Other	Glioblastoma cell	Glioblastoma	1355	421.86 kb	SRR1957100
+Sample_1220	Stem Cell	Other	Glioblastoma cell	Glioblastoma	255	88.742 kb	SRR1957101
+Sample_1221	Stem Cell	Other	Glioblastoma cell	Glioblastoma	2197	693.027 kb	SRR1957102
+Sample_1222	Stem Cell	Other	Glioblastoma cell	Glioblastoma	367	130.427 kb	SRR1957103
+Sample_1223	Stem Cell	Other	Glioblastoma cell	Glioblastoma	2262	710.454 kb	SRR1957104
+Sample_1224	Stem Cell	Other	Glioblastoma cell	Glioblastoma	351	120.505 kb	SRR1957105
+Sample_1225	Stem Cell	Other	Glioblastoma cell	Glioblastoma	2631	838.773 kb	SRR1957106
+Sample_1226	Stem Cell	Other	Glioblastoma cell	Glioblastoma	223	79.257 kb	SRR1957107
+Sample_1227	Stem Cell	Other	Glioblastoma cell	Glioblastoma	5674	1959.116 kb	SRR1957108
+Sample_1228	Stem Cell	Other	Glioblastoma cell	Glioblastoma	310	108.479 kb	SRR1957109
+Sample_1229	Primary Cell	keratinocyte	CTRL	Normal	76695	54638.573 kb	SRR1944625
+Sample_1230	Primary Cell	keratinocyte	CTRL	Normal	74876	54539.777 kb	SRR1944626
+Sample_1231	Primary Cell	keratinocyte	CTRL	Normal	93906	67883.346 kb	SRR1944627
+Sample_1232	Primary Cell	keratinocyte	CTRL	Normal	81400	58085.725 kb	SRR1944628
+Sample_1233	Primary Cell	Blood	CD34+ HSPC	Normal	23876	12394.074 kb	SRR2453157
+Sample_1234	Primary Cell	Blood	CD34+ HSPC	Normal	27820	14862.81 kb	SRR2453158
+Sample_1235	Primary Cell	Blood	CD34+ HSPC	Normal	11699	6417.19 kb	SRR2453159
+Sample_1236	Primary Cell	Blood	CD34+ HSPC	Normal	10051	5092.282 kb	SRR2453160
+Sample_1237	Primary Cell	Blood	CD34+ HSPC	Normal	16463	8626.718 kb	SRR2453161
+Sample_1238	Primary Cell	Blood	CD34+ HSPC	Normal	8526	4300.017 kb	SRR2453162
+Sample_1239	Primary Cell	Blood	CD34+ HSPC	Normal	20054	9741.489 kb	SRR2453163
+Sample_1240	Primary Cell	Blood	CD34+ HSPC	Normal	14615	6582.616 kb	SRR2453164
+Sample_1241	Primary Cell	Blood	CD34+ HSPC	Normal	3527	2027.877 kb	SRR2453165
+Sample_1242	Primary Cell	Blood	CD34+ HSPC	Normal	6879	3132.557 kb	SRR2453166
+Sample_1243	Primary Cell	Blood	CD34+ HSPC	Normal	2626	1981.405 kb	SRR2453168
+Sample_1244	Primary Cell	Blood	CD4+ T cell	Normal	6303	2071.477 kb	SRR1556323
+Sample_1245	Primary Cell	Blood	CD4+ T cell	Normal	5835	1924.301 kb	SRR1556324
+Sample_1246	Primary Cell	Blood	CD4+ T cell	Normal	7785	3134.858 kb	SRR1556325
+Sample_1247	Primary Cell	Blood	CD4+ T cell	Normal	9567	4044.547 kb	SRR1556326
+Sample_1248	Primary Cell	Blood	CD4+ T cell	Normal	13005	4841.033 kb	SRR1556327
+Sample_1249	Primary Cell	Blood	CD4+ T cell	Normal	22775	11830.707 kb	SRR1556328
+Sample_1250	Primary Cell	Blood	CD4+ T cell	Normal	20986	11391.228 kb	SRR1556329
+Sample_1251	Primary Cell	Blood	CD4+ T cell	Normal	22013	12638.438 kb	SRR1556330
+Sample_1252	Primary Cell	Blood	CD4+ T cell	Normal	8139	2988.123 kb	SRR1556331
+Sample_1253	Primary Cell	Blood	CD4+ T cell	Normal	12530	5156.26 kb	SRR1556332
+Sample_1254	Primary Cell	Blood	CD4+ T cell	Normal	8436	3244.083 kb	SRR1556333
+Sample_1255	Primary Cell	Blood	CD4+ T cell	Normal	11895	4719.75 kb	SRR1556334
+Sample_1256	Primary Cell	Blood	CD4+ T cell	Normal	5858	2101.9 kb	SRR1556335
+Sample_1257	Primary Cell	Blood	CD4+ T cell	Normal	6133	2226.593 kb	SRR1556336
+Sample_1258	Primary Cell	Blood	CD4+ T cell	Normal	4326	1465.013 kb	SRR1556337
+Sample_1259	Primary Cell	Blood	CD4+ T cell	Normal	8763	3195.788 kb	SRR1556338
+Sample_1260	Primary Cell	Blood	CD4+ T cell	Normal	8984	3348.899 kb	SRR1556339
+Sample_1261	Primary Cell	Blood	CD4+ T cell	Normal	11143	4234.454 kb	SRR1556340
+Sample_1262	Primary Cell	Blood	CD4+ T cell	Normal	9778	3522.325 kb	SRR1556341
+Sample_1263	Primary Cell	Blood	CD4+ T cell	Normal	9610	3713.867 kb	SRR1556342
+Sample_1264	Primary Cell	Blood	CD4+ T cell	Normal	12734	4939.157 kb	SRR1556343
+Sample_1265	Primary Cell	Blood	CD4+ T cell	Normal	14775	7379.334 kb	SRR1556344
+Sample_1266	Primary Cell	Blood	CD4+ T cell	Normal	15737	8287.661 kb	SRR1556345
+Sample_1267	Primary Cell	Blood	CD4+ T cell	Normal	5404	1863.462 kb	SRR1556346
+Sample_1268	Primary Cell	Blood	CD4+ T cell	Leukemia	9800	3859.478 kb	SRR1556347
+Sample_1269	Primary Cell	Blood	CD4+ T cell	Leukemia	2520	743.525 kb	SRR1556348
+Sample_1270	Primary Cell	Blood	CD4+ T cell	Leukemia	7825	3391.111 kb	SRR1556349
+Sample_1271	Primary Cell	Blood	CD4+ T cell	Leukemia	10794	4305.648 kb	SRR1556350
+Sample_1272	Primary Cell	Blood	CD4+ T cell	Leukemia	19930	9132.095 kb	SRR1556351
+Sample_1273	Primary Cell	Blood	CD4+ T cell	Leukemia	22626	10448.524 kb	SRR1556352
+Sample_1274	Primary Cell	Blood	CD4+ T cell	Leukemia	18604	8029.774 kb	SRR1556353
+Sample_1275	Primary Cell	Blood	CD4+ T cell	Normal	14723	7499.922 kb	SRR1556354
+Sample_1276	Primary Cell	Blood	CD4+ T cell	Normal	13581	6970.933 kb	SRR1556355
+Sample_1277	Primary Cell	Blood	CD4+ T cell	Normal	1111	315.153 kb	SRR1556356
+Sample_1278	Primary Cell	Blood	CD4+ T cell	Leukemia	11877	4758.665 kb	SRR1556357
+Sample_1279	Primary Cell	Blood	CD4+ T cell	Leukemia	13573	5788.799 kb	SRR1556358
+Sample_1280	Primary Cell	Blood	CD4+ T cell	Leukemia	6431	2157.422 kb	SRR1556359
+Sample_1281	Primary Cell	Blood	CD4+ T cell	Leukemia	10658	4416.358 kb	SRR1556360
+Sample_1282	Primary Cell	Blood	CD4+ T cell	Leukemia	9231	3445.856 kb	SRR1556361
+Sample_1283	Primary Cell	Blood	CD4+ T cell	Leukemia	18345	9645.416 kb	SRR1556362
+Sample_1284	Primary Cell	Blood	CD4+ T cell	Leukemia	7321	3133.678 kb	SRR1556363
+Sample_1285	Primary Cell	Blood	CD4+ T cell	Leukemia	22158	12463.567 kb	SRR1556364
+Sample_1286	Primary Cell	Blood	CD4+ T cell	Leukemia	17291	8209.753 kb	SRR1556365
+Sample_1287	Primary Cell	Blood	CD4+ T cell	Leukemia	7151	2566.067 kb	SRR1556366
+Sample_1288	Primary Cell	Blood	CD4+ T cell	Leukemia	14199	5961.246 kb	SRR1556367
+Sample_1289	Primary Cell	Blood	CD4+ T cell	Leukemia	12864	6219.173 kb	SRR1556368
+Sample_1290	Primary Cell	Blood	CD4+ T cell	Leukemia	15192	7703.194 kb	SRR1556369
+Sample_1291	Primary Cell	Blood	CD4+ T cell	Leukemia	11849	4888.743 kb	SRR1556370
+Sample_1292	Primary Cell	Blood	CD4+ T cell	Leukemia	14009	6362.316 kb	SRR1556371
+Sample_1293	Primary Cell	Blood	CD4+ T cell	Leukemia	11963	4952.244 kb	SRR1556372
+Sample_1294	Primary Cell	Blood	CD4+ T cell	Leukemia	8400	3490.439 kb	SRR1556373
+Sample_1295	Primary Cell	Blood	CD4+ T cell	Leukemia	13897	4922.463 kb	SRR1556374
+Sample_1296	Primary Cell	Blood	CD4+ T cell	Normal	3567	1131.749 kb	SRR1556375
+Sample_1297	Primary Cell	Blood	CD4+ T cell	Normal	12156	4666.914 kb	SRR1556376
+Sample_1298	Primary Cell	Blood	CD4+ T cell	Normal	4481	1558.689 kb	SRR1556377
+Sample_1299	Primary Cell	Blood	CD4+ T cell	Normal	11004	4111.879 kb	SRR1556378
+Sample_1300	Cell Line	Blood	Mixture of GM12878 and Patski mouse embryonic kidney fibroblast cell line	Normal	4759	1824.254 kb	SRR1947691
+Sample_1301	Cell Line	Blood	Mixture of GM12878 and HEK293T	Normal	11007	4887.734 kb	SRR1947692
+Sample_1302	Cell Line	Blood	Mixture of GM12878 and HL-60	Normal	7633	3427.838 kb	SRR1947693
+Sample_1303	Cell Line	Blood	Mixture of GM12878 and HL-60	Normal	57101	28688.276 kb	SRR1947694
+Sample_1304	Cell Line	Blood	Mixture of GM12878 and HL-60	Normal	64027	35994.634 kb	SRR1947695
+Sample_1305	Cell Line	Blood	Mixture of GM12878 and HL-60	Normal	45501	26991.902 kb	SRR1947696
+Sample_1306	Cell Line	Blood	GM12878	Normal	24997	16029.085 kb	SRR1822166
+Sample_1307	Cell Line	Blood	GM12878	Normal	30542	19566.87 kb	SRR1822167
+Sample_1308	Cell Line	Blood	GM12878	Normal	26770	16576.77 kb	SRR1822168
+Sample_1309	Cell Line	Blood	Raji	Lymphoma	27828	16706.17 kb	SRR1787814
+Sample_1310	Cell Line	Blood	Rj2_2_5	Lymphoma	17112	9752.705 kb	SRR1787816
+Sample_1311	Cell Line	Other	SKNMC	Ewing sarcoma	10372	4324.979 kb	SRR1594026
+Sample_1312	Cell Line	Blood	GM12878	Normal	24997	16029.085 kb	SRR891269
+Sample_1313	Cell Line	Blood	GM12878	Normal	30542	19566.87 kb	SRR891270
+Sample_1314	Cell Line	Blood	GM12878	Normal	26770	16576.77 kb	SRR891271
+Sample_1315	Cell Line	Blood	GM12878	Normal	403	257.957 kb	SRR891273
+Sample_1316	Cell Line	Blood	GM12878	Normal	386	178.519 kb	SRR891274
+Sample_1317	Primary Cell	Blood	CD4+ T cell	Normal	7785	3134.858 kb	SRR891275
+Sample_1318	Primary Cell	Blood	CD4+ T cell	Normal	9567	4044.547 kb	SRR891276
+Sample_1319	Primary Cell	Blood	CD4+ T cell	Normal	13005	4841.033 kb	SRR891277
+Sample_1320	Primary Cell	Blood	CD4+ T cell	Normal	22775	11830.707 kb	SRR891278
+Sample_1321	Primary Cell	Blood	CD4+ T cell	Normal	2664	1463.527 kb	SRR891279
+Sample_1322	Primary Cell	Blood	CD4+ T cell	Normal	9740	5502.462 kb	SRR891280
+Sample_1323	Tissue	Blood	HCASMC	Coronary artery disease	48254	33708.718 kb	SRR8216256
+Sample_1324	Tissue	Blood	HCASMC	Coronary artery disease	67441	51405.983 kb	SRR8216257
+Sample_1325	Tissue	Blood	HCASMC	Coronary artery disease	43672	30732.801 kb	SRR8216258
+Sample_1326	Tissue	Blood	HCASMC	Coronary artery disease	124489	93599.373 kb	SRR8216259
+Sample_1327	Tissue	Blood	HCASMC	Coronary artery disease	53422	33760.435 kb	SRR8216260
+Sample_1328	Tissue	Blood	HCASMC	Coronary artery disease	61360	41995.273 kb	SRR8216261
+Sample_1329	Stem Cell	Embryo	ESC	Normal	33988	20139.797 kb	SRR6504069
+Sample_1330	Tissue	Frontal	Frontal cortex	Frontotemporal degeneration	12773	4257.543 kb	SRR8571953
+Sample_1331	Tissue	Frontal	Frontal cortex	Frontotemporal degeneration	4390	1363.573 kb	SRR8571954
+Sample_1332	Tissue	Frontal	Frontal cortex	Frontotemporal degeneration	5072	1676.034 kb	SRR8571955
+Sample_1333	Tissue	Frontal	Frontal cortex	Frontotemporal degeneration	6240	1974.897 kb	SRR8571956
+Sample_1334	Tissue	Frontal	Frontal cortex	Frontotemporal degeneration	6258	2110.219 kb	SRR8571957
+Sample_1335	Tissue	Frontal	Frontal cortex	Frontotemporal degeneration	18206	6373.446 kb	SRR8571958
+Sample_1336	Tissue	Frontal	Frontal cortex	Frontotemporal degeneration	44173	16833.184 kb	SRR8571959
+Sample_1337	Tissue	Frontal	Frontal cortex	Frontotemporal degeneration	18167	6310.238 kb	SRR8571960
+Sample_1338	Tissue	Frontal	Frontal cortex	Frontotemporal degeneration	5011	1641.466 kb	SRR8571961
+Sample_1339	Tissue	Frontal	Frontal cortex	Frontotemporal degeneration	4974	1540.41 kb	SRR8571962
+Sample_1340	Tissue	Frontal	Frontal cortex	Frontotemporal degeneration	13454	4619.869 kb	SRR8571963
+Sample_1341	Tissue	Frontal	Frontal cortex	Frontotemporal degeneration	24529	8695.664 kb	SRR8571964
+Sample_1342	Tissue	Frontal	Frontal cortex	Frontotemporal degeneration	3285	956.93 kb	SRR8571965
+Sample_1343	Tissue	Frontal	Frontal cortex	Frontotemporal degeneration	6620	1887.335 kb	SRR8571966
+Sample_1344	Other	Myeloid	Myeloid	Normal	54611	27091.397 kb	SRR7784432
+Sample_1345	Other	Myeloid	Myeloid	Normal	53612	28901.836 kb	SRR7784433
+Sample_1346	Other	Myeloid	Myeloid	Normal	28839	12981.892 kb	SRR7784435
+Sample_1347	Cell Line	Ovarian	BIN-67	Deficient thoracic sarcomas	14464	6115.543 kb	SRR7536816
+Sample_1348	Cell Line	Ovarian	BIN-67	Deficient thoracic sarcomas	30924	12273.768 kb	SRR7536817
+Sample_1349	Cell Line	Ovarian	BIN-67	Deficient thoracic sarcomas	15810	6864.952 kb	SRR7536819
+Sample_1350	Cell Line	Ovarian	BIN-67	Deficient thoracic sarcomas	12578	5607.692 kb	SRR7536820
+Sample_1351	Cell Line	Ovarian	BIN-67	Deficient thoracic sarcomas	22466	8435.459 kb	SRR7536821
+Sample_1352	Cell Line	Ovarian	BIN-67	Deficient thoracic sarcomas	25192	10170.468 kb	SRR7536822
+Sample_1353	Primary Cell	Peripheral blood	HSPC	Normal	47469	27019.777 kb	SRR6811664
+Sample_1354	Primary Cell	Peripheral blood	HSPC	Normal	32821	17882.269 kb	SRR6811665
+Sample_1355	Primary Cell	Peripheral blood	HSPC	Normal	23857	15756.853 kb	SRR6811666
+Sample_1356	Primary Cell	Peripheral blood	Erythroblasts	Normal	29023	20391.267 kb	SRR6811667
+Sample_1357	Primary Cell	Peripheral blood	Erythroblasts	Normal	22885	14448.514 kb	SRR6811668
+Sample_1358	Primary Cell	Peripheral blood	HSPC	Normal	11695	5973.232 kb	SRR6811669
+Sample_1359	Primary Cell	Peripheral blood	HSPC	Normal	12453	7078.345 kb	SRR6811670
+Sample_1360	Tissue	Sperm	Sperm	Normal	20596	8982.657 kb	SRR7504537
+Sample_1361	Tissue	Sperm	Sperm	Normal	10114	4982.369 kb	SRR7504538
+Sample_1362	Cell Line	Other	FT190	Ovarion cancer	26177	13891.662 kb	GSM3462379
+Sample_1363	Cell Line	Other	FT190	Ovarion cancer	31633	18593.165 kb	GSM3462380
+Sample_1364	Cell Line	Other	FT190	Ovarion cancer	27236	16431.814 kb	GSM3462381
+Sample_1365	Cell Line	Other	FT194	Ovarion cancer	29194	15895.413 kb	GSM3462382
+Sample_1366	Cell Line	Other	FT194	Ovarion cancer	38341	21984.018 kb	GSM3462383
+Sample_1367	Cell Line	Other	FT194	Ovarion cancer	35804	20767.964 kb	GSM3462384
+Sample_1368	Primary Cell	Blood	CD8+ T cell	Normal	26645	15296.318 kb	SRR6730127
+Sample_1369	Primary Cell	Blood	CD8+ T cell	Normal	23935	13665.008 kb	SRR6730128
+Sample_1370	Primary Cell	Blood	CD8+ T cell	Normal	24948	13804.794 kb	SRR6730129
+Sample_1371	Primary Cell	Blood	CD8+ T cell	Normal	29265	9259.425 kb	SRR6730130
+Sample_1372	Primary Cell	Blood	CD8+ T cell	Normal	22768	12507.324 kb	SRR6730131
+Sample_1373	Primary Cell	Blood	CD8+ T cell	Normal	21143	11583.28 kb	SRR6730132
+Sample_1374	Other	Skin	Skin	Normal	88120	37639.237 kb	SRR8558122
+Sample_1375	Other	Skin	Skin	Normal	52519	20973.048 kb	SRR8558123
+Sample_1376	Other	Skin	Skin	Normal	2584	1096.484 kb	SRR8558124
+Sample_1377	Other	Skin	Skin	Normal	106235	38994.794 kb	SRR8558125
+Sample_1378	Other	Skin	Skin	Normal	76184	30708.032 kb	SRR8558126
+Sample_1379	Other	Skin	Skin	Normal	78256	30998.108 kb	SRR8558127
+Sample_1380	Other	Skin	Skin	Normal	41804	14533.802 kb	SRR8558128
+Sample_1381	Other	Skin	Skin	Normal	70730	27428.124 kb	SRR8558129
+Sample_1382	Induced pluripotent stem cell line	Other	iPSC	Other	51820	22174.077 kb	SRR8393556
+Sample_1383	Induced pluripotent stem cell line	Other	iPSC	Other	67884	32162.332 kb	SRR8393558
+Sample_1384	Induced pluripotent stem cell line	Other	iPSC	Other	123725	61442.215 kb	SRR8393559
+Sample_1385	Cell Line	Mammary Gland	MCF7	Breast cancer	54622	20164.372 kb	SRR5638551
+Sample_1386	Cell Line	Mammary Gland	MCF7	Breast cancer	35840	12719.177 kb	SRR5638552
+Sample_1387	Cell Line	Embryo	HESC	Normal	119463	55994.074 kb	SRR6387575
+Sample_1388	Cell Line	Embryo	HESC	Normal	37576	18459.095 kb	SRR6387576
+Sample_1389	Cell Line	Embryo	HESC	Normal	43381	20369.285 kb	SRR6387577
+Sample_1390	Cell Line	Embryo	HESC	Normal	39671	18595.326 kb	SRR6387578
+Sample_1391	Cell Line	Embryo	HESC	Normal	28893	14243.46 kb	SRR6387579
+Sample_1392	Cell Line	Embryo	HESC	Normal	28850	13573.155 kb	SRR6930063
+Sample_1393	Cell Line	Embryo	HESC	Normal	17905	6013.455 kb	SRR7182996
+Sample_1394	Cell Line	Embryo	HESC	Normal	31581	10800.418 kb	SRR7182997
+Sample_1395	Cell Line	Embryo	HESC	Normal	54504	31240.143 kb	SRR7182998
+Sample_1396	Cell Line	Embryo	HESC	Normal	44747	26251.203 kb	SRR7182999
+Sample_1397	Cell Line	Embryo	HESC	Normal	27183	17004.591 kb	SRR7183000
+Sample_1398	Cell Line	Embryo	HESC	Normal	31117	18939.429 kb	SRR7183001
+Sample_1399	Cell Line	Embryo	HESC	Normal	65618	35508.458 kb	SRR7183003
+Sample_1400	Cell Line	Embryo	HESC	Normal	45880	20919.957 kb	SRR7183004
+Sample_1401	Cell Line	Embryo	HESC	Normal	45350	24271.977 kb	SRR7183005
+Sample_1402	Cell Line	Embryo	HESC	Normal	24079	11550.607 kb	SRR7183006
+Sample_1403	Cell Line	Embryo	HESC	Normal	24701	11968.752 kb	SRR7183007
+Sample_1404	Cell Line	Embryo	HESC	Normal	67706	35358.785 kb	SRR8098482
+Sample_1405	Cell Line	Embryo	HESC	Normal	74228	38680.244 kb	SRR8098483
+Sample_1406	Cell Line	Embryo	HESC	Normal	41058	17673.828 kb	SRR8098484
+Sample_1407	Cell Line	Embryo	HESC	Normal	29582	12727.629 kb	SRR8098485
+Sample_1408	Cell Line	Embryo	HESC	Normal	101844	57036.352 kb	SRR8098486
+Sample_1409	Cell Line	Embryo	HESC	Normal	91707	52214.17 kb	SRR8098487
+Sample_1410	Cell Line	Peripheral blood	JHU-06	Leukemia	3555	1305.911 kb	SRR5785357
+Sample_1411	Cell Line	Peripheral blood	JHU-06	Leukemia	2181	726.153 kb	SRR5785358
+Sample_1412	Cell Line	Peripheral blood	JHU-06	Leukemia	2997	1305.356 kb	SRR5785359
+Sample_1413	Cell Line	Peripheral blood	JHU-06	Leukemia	25237	18184.255 kb	SRR5785361
+Sample_1414	Cell Line	Peripheral blood	JHU-06	Leukemia	27299	16382.387 kb	SRR5785362
+Sample_1415	Cell Line	Peripheral blood	JHU-06	Leukemia	17803	11213.972 kb	SRR5785364
+Sample_1416	Cell Line	Peripheral blood	JHU-06	Leukemia	27114	17135.048 kb	SRR5785365
+Sample_1417	Cell Line	Peripheral blood	JHU-06	Leukemia	43850	29854.89 kb	SRR5785367
+Sample_1418	Cell Line	Peripheral blood	JHU-06	Leukemia	20729	12746.488 kb	SRR5785369
+Sample_1419	Cell Line	Peripheral blood	JHU-06	Leukemia	21584	13018.911 kb	SRR5785370
+Sample_1420	Cell Line	Peripheral blood	JHU-06	Leukemia	22171	13019.996 kb	SRR5785372
+Sample_1421	Cell Line	Peripheral blood	JHU-06	Leukemia	25686	16240.089 kb	SRR5785375
+Sample_1422	Cell Line	Peripheral blood	JHU-06	Leukemia	3660	2052.638 kb	SRR5785377
+Sample_1423	Cell Line	Peripheral blood	JHU-06	Leukemia	30059	18841.459 kb	SRR5785379
+Sample_1424	Cell Line	Peripheral blood	JHU-06	Leukemia	30273	16874.633 kb	SRR5785380
+Sample_1425	Cell Line	Peripheral blood	JHU-06	Leukemia	26980	15446.048 kb	SRR5785382
+Sample_1426	Cell Line	Peripheral blood	JHU-06	Leukemia	22086	14906.059 kb	SRR5785383
+Sample_1427	Cell Line	Peripheral blood	JHU-06	Leukemia	24735	17017.908 kb	SRR5785385
+Sample_1428	Cell Line	Peripheral blood	JHU-06	Leukemia	23436	14585.432 kb	SRR5785386
+Sample_1429	Cell Line	Peripheral blood	JHU-06	Leukemia	21031	13136.202 kb	SRR5785388
+Sample_1430	Cell Line	Peripheral blood	JHU-06	Leukemia	27181	19250.005 kb	SRR5785389
+Sample_1431	Cell Line	Peripheral blood	JHU-06	Leukemia	25109	18355.229 kb	SRR5785391
+Sample_1432	Cell Line	Peripheral blood	JHU-06	Leukemia	28112	18085.873 kb	SRR5785392
+Sample_1433	Cell Line	Peripheral blood	JHU-06	Leukemia	25013	14743.432 kb	SRR5785394
+Sample_1434	Cell Line	Peripheral blood	JHU-06	Leukemia	20280	13912.091 kb	SRR5785396
+Sample_1435	Cell Line	Peripheral blood	JHU-06	Leukemia	21560	14820.543 kb	SRR5785398
+Sample_1436	Cell Line	Peripheral blood	JHU-06	Leukemia	20615	15099.631 kb	SRR5785400
+Sample_1437	Cell Line	Peripheral blood	JHU-06	Leukemia	24502	18139.485 kb	SRR5785404
+Sample_1438	Cell Line	Peripheral blood	JHU-06	Leukemia	21386	15081.874 kb	SRR5785405
+Sample_1439	Cell Line	Peripheral blood	JHU-06	Leukemia	23158	17773.676 kb	SRR5785408
+Sample_1440	Cell Line	Peripheral blood	JHU-06	Leukemia	26557	19529.192 kb	SRR5785412
+Sample_1441	Cell Line	Peripheral blood	JHU-06	Leukemia	35331	26403.952 kb	SRR5785413
+Sample_1442	Tissue	Adipose	Adipose	Other	15955	7821.905 kb	SRR8255925
+Sample_1443	Tissue	Adipose	Adipose	Other	10764	5368.509 kb	SRR8255926
+Sample_1444	Tissue	Adipose	Adipose	Other	9131	4449.753 kb	SRR8255927
+Sample_1445	Tissue	Adipose	Adipose	Other	13687	7682.488 kb	SRR8255928
+Sample_1446	Tissue	Adipose	Adipose	Other	9754	5135.59 kb	SRR8255929
+Sample_1447	Tissue	Adipose	Adipose	Other	28648	14644.052 kb	SRR8255930
+Sample_1448	Cell Line	Bone	MUG-Chor1	Chordoma	15288	5904.515 kb	SRR6635719
+Sample_1449	Cell Line	Bone	U-CH2	Chordoma	42509	20523.767 kb	SRR6635720
+Sample_1450	Cell Line	Bone	U-CH2	Chordoma	37202	15734.804 kb	SRR6635721
+Sample_1451	Cell Line	Prostate	22RV-1	Prostate cancer	73770	55835.983 kb	SRR7290301
+Sample_1452	Cell Line	Prostate	22RV-1	Prostate cancer	46077	35981.87 kb	SRR7290302
+Sample_1453	Tissue	Brain	cerebellum	Other	46841	23851.044 kb	SRR6956273
+Sample_1454	Tissue	Brain	cerebellum	Other	52205	28927.874 kb	SRR6956274
+Sample_1455	Tissue	Brain	cerebellum	Other	75830	38622.293 kb	SRR6956275
+Sample_1456	Tissue	Brain	cerebellum	Other	87848	20802.595 kb	SRR6956276
+Sample_1457	Tissue	Brain	cerebellum	Other	27096	11704.594 kb	SRR6310009
+Sample_1458	Tissue	Brain	cerebellum	Other	23875	8668.947 kb	SRR6310010
+Sample_1459	Tissue	Brain	cerebellum	Other	18278	6606.349 kb	SRR6310011
+Sample_1460	Primary Cell	Blood	B cell	Hypogammaglobulinemia	8853	4659.917 kb	SRR5970479
+Sample_1461	Primary Cell	Blood	B cell	Hypogammaglobulinemia	15675	5011.303 kb	SRR5970483
+Sample_1462	Primary Cell	Blood	B cell	Hypogammaglobulinemia	12078	3604.269 kb	SRR5970484
+Sample_1463	Primary Cell	Blood	B cell	Hypogammaglobulinemia	21377	8273.324 kb	SRR5970487
+Sample_1464	Primary Cell	Blood	B cell	Hypogammaglobulinemia	26705	12010.347 kb	SRR5970488
+Sample_1465	Cell Line	Blood	HL-60	Normal	10161	2576.296 kb	SRR4269915
+Sample_1466	Cell Line	Blood	HL-60	Normal	17588	7264.096 kb	SRR4269916
+Sample_1467	Other	Blood	Macrophage	Other	10568	5204.744 kb	SRR4269918
+Sample_1468	Other	Blood	Monocyte	Other	6102	3452.045 kb	SRR4269919
+Sample_1469	Other	Blood	Monocyte	Other	8042	4396.307 kb	SRR4269920
+Sample_1470	Other	Blood	Neutrophile	Other	7806	4077.097 kb	SRR4269921
+Sample_1471	Other	Blood	Neutrophile	Other	2297	767.416 kb	SRR4269922
+Sample_1472	Other	Epithelial	6TFs	Other	8360	4066.603 kb	SRR1982087
+Sample_1473	Other	Epithelial	CEC	Other	9837	4510.225 kb	SRR1982088
+Sample_1474	Other	Epithelial	CEC	Other	8172	4205.015 kb	SRR1982089
+Sample_1475	Other	Epithelial	CEC	Other	9245	4231.029 kb	SRR1982090
+Sample_1476	Other	Epithelial	CEC	Other	59849	29534.205 kb	SRR1982091
+Sample_1477	Other	Epithelial	CEC	Other	57787	32098.977 kb	SRR1982092
+Sample_1478	Other	Epithelial	CEC	Other	16379	6843.594 kb	SRR1982093
+Sample_1479	Other	Epithelial	CEC	Other	48405	23951.873 kb	SRR1982094
+Sample_1480	Other	Epithelial	CEC	Other	64704	36151.666 kb	SRR1982095
+Sample_1481	Other	Epithelial	CEC	Other	54564	30543.004 kb	SRR1982096
+Sample_1482	Other	Epithelial	CEC	Other	58281	35229.221 kb	SRR1982097
+Sample_1483	Other	Epithelial	CEC	Other	76819	44304.811 kb	SRR1982098
+Sample_1484	Primary Cell	Other	primary hematopoietic cell	Other	4833	1825.257 kb	SRR7246328
+Sample_1485	Primary Cell	Other	primary hematopoietic cell	Other	15968	8128.935 kb	SRR7246329
+Sample_1486	Primary Cell	Colon	Colon	Normal	5555	2488.081 kb	SRR8192657
+Sample_1487	Primary Cell	Colon	Colon	Normal	9790	3855.502 kb	SRR8192658
+Sample_1488	Primary Cell	Colon	Colon	Colorectal carcinoma	8091	3484.153 kb	SRR8192659
+Sample_1489	Other	Other	B cell	Systemic Lupus Erythematosus	33777	22915.059 kb	SRR3158183
+Sample_1490	Other	Other	B cell	Systemic Lupus Erythematosus	34996	22050.161 kb	SRR3158182
+Sample_1491	Other	Other	B cell	Systemic Lupus Erythematosus	11932	6002.441 kb	SRR3158181
+Sample_1492	Other	Other	B cell	Systemic Lupus Erythematosus	43381	32021.052 kb	SRR3158180
+Sample_1493	Other	Other	B cell	Normal	25388	16160.694 kb	SRR3158179
