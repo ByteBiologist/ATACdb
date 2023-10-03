@@ -28,7 +28,6 @@ if (!file.exists(file.path(motif_dir, motif_filename))) {
 # Read the motifs BED file into a data frame
 motif_data <- read.table(file.path(motif_dir, motif_filename), header = TRUE, sep = "\t")
 
-# Rearrange the columns as specified
 # Create a new data frame with the desired column order
 rearranged_motif_data <- motif_data[, c("motif_sacn_chr", "motif_sacn_start", "motif_sacn_end", "motif_sacn_tf_name", "motif_sacn_motif_id", "motif_sacn_strand", "motif_sacn_pvalue", "motif_sacn_qvalue", "motif_sacn_sequence")]
 
