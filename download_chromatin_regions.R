@@ -72,7 +72,7 @@ process_sample <- function(sample_id) {
 }
 
 # Loop through sample numbers from 1 to 1493
-for (sample_number in 1:3) {
+for (sample_number in 1:1493) {
   result <- process_sample(sample_number)
   if (!is.null(result)) {
     cat("Processing for Sample_", sprintf("%04d", sample_number), " completed successfully.\n")
