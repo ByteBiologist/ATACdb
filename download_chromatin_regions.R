@@ -44,13 +44,20 @@ process_sample <- function(sample_id) {
 
   # Create placeholder columns for "name" and "strand"
   bed_data$name <- NA
-  bed_data$strand <- NA
+  bed_data$strand <- "."
 
   # Subtract 1 from the "start" column
   #bed_data$start <- bed_data$start - 1
 
   # Create a new data frame with the desired column order
   rearranged_bed_data <- bed_data[, c("chr", "start", "end", "name", "score", "strand", "fold_change", "pValue", "qValue", "peak", "sample_ID", "region_ID")]
+
+  # Concatenate "sample_ID" and "region_ID" with an underscore and store in the "sample_region" column
+  rearranged_bed_data$name <- paste(bed_data$sample_ID, bed_data$region_ID, sep = "_")
+
+   # Remove the "sample_ID" and "region_ID" columns
+  rearranged_bed_data$sample_ID <- NULL
+  rearranged_bed_data$region_ID <- NULL
 
   # Define the output filename for the rearranged BED file
   output_filename <- file.path(processed_dir, paste0("Sample_", formatted_sample_id, "_rearranged.bed"))
@@ -65,7 +72,7 @@ process_sample <- function(sample_id) {
 }
 
 # Loop through sample numbers from 1 to 1493
-for (sample_number in 1:1493) {
+for (sample_number in 1:3) {
   result <- process_sample(sample_number)
   if (!is.null(result)) {
     cat("Processing for Sample_", sprintf("%04d", sample_number), " completed successfully.\n")
@@ -74,6 +81,3 @@ for (sample_number in 1:1493) {
     cat("Processing for Sample_", sprintf("%04d", sample_number), " encountered an error.\n")
   }
 }
-
-
-
