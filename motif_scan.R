@@ -4,52 +4,49 @@ motif_url <- "https://bio.liclab.net/ATACdb/download/packages/Motif_scan_package
 # Extract the filename from the URL
 motif_filename <- basename(motif_url)
 
-# Define the directory path for the motif files
-motif_dir <- "motif/"
+# Define the directory path
+motif_dir <- "motif_scan/"
+jaspar_dir <- "JASPAR/"
+
+# Create a log file for capturing download errors
+log_file_path <- file.path(jaspar_dir, "download_log.txt")
 
 # Ensure that the directory exists; create it if it doesn't
 dir.create(motif_dir, showWarnings = FALSE, recursive = TRUE)
+dir.create(jaspar_dir, showWarnings = FALSE, recursive = TRUE)
 
-# Function to download motif files by motif ID
-download_motif_files <- function(motif_id) {
-  # Define the base URL
-  base_url <- "https://jaspar.genereg.net/api/v1/matrix/"
+# Function to download MEME file and log errors
+download_meme_file <- function(motif_id, meme_url, meme_dest) {
+  # Check if MEME file already exists; skip download if it does
+  if (file.exists(meme_dest)) {
+    cat("MEME file for", motif_id, "already exists. Skipping download.\n")
+    return()
+  }
 
-  # Define the URLs for the MEME and PFM files
-  meme_url <- paste0(base_url, motif_id, ".meme")
-  pfm_url <- paste0(base_url, motif_id, ".pfm")
+  tryCatch({
+    download.file(meme_url, destfile = meme_dest, method = "auto")
+    cat("MEME file for", motif_id, "downloaded successfully.\n")
+  }, error = function(e) {
+    cat("Failed to download MEME file for", motif_id, ". Error:", e$message, "\n")
+    cat(paste("Failed to download MEME file for", motif_id, ". Error:", e$message, "\n"), file = log_file_path, append = TRUE)
+  })
+}
 
-  # Define the download directory (JASPER folder)
-  download_dir <- "JASPAR/"
+# Function to download PFM file and log errors
+download_pfm_file <- function(motif_id, pfm_url, pfm_dest) {
+  # Check if PFM file already exists; skip download if it does
+  if (file.exists(pfm_dest)) {
+    cat("PFM file for", motif_id, "already exists. Skipping download.\n")
+    return()
+  }
 
-  # Ensure that the directory exists; create it if it doesn't
-  dir.create(download_dir, showWarnings = FALSE, recursive = TRUE)
-
-  # Download the MEME file
-  meme_dest <- file.path(download_dir, paste0(motif_id, ".meme"))
-  tryCatch(
-    {
-      download.file(meme_url, destfile = meme_dest, method = "auto")
-      cat("MEME file for", motif_id, "downloaded successfully.\n")
-    },
-    error = function(e) {
-      cat("Failed to download MEME file for", motif_id, ". Error:", e$message, "\n")
-      return()
-    }
-  )
-
-  # Download the PFM file
-  pfm_dest <- file.path(download_dir, paste0(motif_id, ".pfm"))
-  tryCatch(
-    {
-      download.file(pfm_url, destfile = pfm_dest, method = "auto")
-      cat("PFM file for", motif_id, "downloaded successfully.\n")
-    },
-    error = function(e) {
-      cat("Failed to download PFM file for", motif_id, ". Error:", e$message, "\n")
-      return()
-    }
-  )
+  tryCatch({
+    download.file(pfm_url, destfile = pfm_dest, method = "auto")
+    cat("PFM file for", motif_id, "downloaded successfully.\n")
+  }, error = function(e) {
+    cat("Failed to download PFM file for", motif_id, ". Error:", e$message, "\n")
+    cat(paste("Failed to download PFM file for", motif_id, ". Error:", e$message, "\n"), file = log_file_path, append = TRUE)
+  })
 }
 
 # Check if the raw motifs BED file already exists in the motif directory
@@ -75,11 +72,24 @@ unique_motif_ids <- unique(motif_data$motif_sacn_motif_id)
 
 # Loop through unique motif IDs and download the corresponding files
 for (motif_id in unique_motif_ids) {
-  download_motif_files(motif_id)
+  # Define the base URL
+  base_url <- "https://jaspar.genereg.net/api/v1/matrix/"
+
+  # Define the URLs for MEME and PFM files
+  meme_url <- paste0(base_url, motif_id, ".meme")
+  pfm_url <- paste0(base_url, motif_id, ".pfm")
+
+  # Define the file paths for MEME and PFM files
+  meme_dest <- file.path(jaspar_dir, paste0(motif_id, ".meme"))
+  pfm_dest <- file.path(jaspar_dir, paste0(motif_id, ".pfm"))
+
+  # Download MEME and PFM files
+  download_meme_file(motif_id, meme_url, meme_dest)
+  download_pfm_file(motif_id, pfm_url, pfm_dest)
 }
 
-# Create placeholder columns for "name" and "strand"
-motif_data$score <- "."
+# Calculate score based on -log10(qvalue)
+motif_data$score <- as.integer(-10 * log10(motif_data$motif_sacn_qvalue))
 
 # Create a new data frame with the desired column order
 rearranged_motif_data <- motif_data[, c("motif_sacn_chr", "motif_sacn_start", "motif_sacn_end", "motif_sacn_tf_name", "score", "motif_sacn_strand", "motif_sacn_motif_id", "motif_sacn_pvalue", "motif_sacn_qvalue", "motif_sacn_sequence")]
