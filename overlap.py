@@ -35,14 +35,16 @@ def perform_bedtools_intersect(motif_file, input_file, output_file):
                 
                 # Write the modified line to the output file
                 output.write(modified_line + '\n')
-    
-    #print(f"Intersection complete for {input_file}. Results saved to {output_file}")
-
-    # Bgzip the output file
-    bgzip_cmd = ["bgzip", output_file]
-    subprocess.run(bgzip_cmd)
 
     print(f"Intersection complete for {input_file}. Results saved to {output_file}.gz")
+
+    # Sort the output file
+    sort_command = f"LC_ALL=C sort -k1,1 -k2,2n -k3,3n {output_file} -o {output_file}"
+    subprocess.run(sort_command, shell=True)
+
+    # Bgzip the sorted output file
+    bgzip_cmd = ["bgzip", output_file]
+    subprocess.run(bgzip_cmd)
 
 
 # Load samples metadata into a dictionary (Sample_ID -> Tissue_Type)
