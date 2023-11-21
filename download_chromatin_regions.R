@@ -10,8 +10,8 @@ process_sample <- function(sample_id) {
   filename <- basename(url)
 
   # Define the directory paths for raw and processed files
-  raw_download_dir <- "raw_download/"
-  processed_dir <- "Accessible_chromatin_files/"
+  raw_download_dir <- "raw_download"
+  processed_dir <- "Accessible_chromatin_files"
 
   # Ensure that the directories exist; create them if they don't
   dir.create(raw_download_dir, showWarnings = FALSE, recursive = TRUE)
@@ -47,7 +47,7 @@ process_sample <- function(sample_id) {
   bed_data$strand <- "."
 
   # Subtract 1 from the "start" column
-  #bed_data$start <- bed_data$start - 1
+  bed_data$start <- bed_data$start - 1
 
   # Create a new data frame with the desired column order
   rearranged_bed_data <- bed_data[, c("chr", "start", "end", "name", "score", "strand", "fold_change", "pValue", "qValue", "peak", "sample_ID", "region_ID")]
@@ -60,15 +60,13 @@ process_sample <- function(sample_id) {
   rearranged_bed_data$region_ID <- NULL
 
   # Define the output filename for the rearranged BED file
-  output_filename <- file.path(processed_dir, paste0("Sample_", formatted_sample_id, "_rearranged.bed"))
+  output_filename <- file.path(processed_dir, paste0("Sample_", formatted_sample_id, "_rearranged_sorted.bed"))
 
   # Modify the column names in the data frame
   colnames(rearranged_bed_data) <- c("#chrom", "start", "end", "sample_region", "score", "strand", "fold_change", "pValue", "qValue", "peak")
 
   # Write the modified data frame to a new BED file in the Accessible_chromatin_files directory
   write.table(rearranged_bed_data, file = output_filename, sep = "\t", quote = FALSE, row.names = FALSE, col.names = TRUE)
-
-  cat("Rearranged BED file saved as", output_filename, "\n")
   
   # Return the path to the rearranged BED file
   return(output_filename)
@@ -78,8 +76,20 @@ process_sample <- function(sample_id) {
 for (sample_number in 1:1493) {
   result <- process_sample(sample_number)
   if (!is.null(result)) {
-    cat("Processing for Sample_", sprintf("%04d", sample_number), " completed successfully.\n")
-    cat("Processed BED file saved as", result, "\n")
+
+    # Sort the BED file using an external sorting command
+    sorting_command <- paste(
+      "LC_ALL=C sort -k1,1 -k2,2n -k3,3n",
+      "-o", result,  # Output the sorted result to the sorted file
+      result  # Input file to be sorted
+    )
+
+    # Execute the sorting command
+    system(sorting_command)
+
+    cat("Sorted BED file saved as", result, "\n")
+    cat("Processing for Sample_", sprintf("%04d", sample_number)," completed successfully.\n")
+
   } else {
     cat("Processing for Sample_", sprintf("%04d", sample_number), " encountered an error.\n")
   }
