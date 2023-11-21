@@ -5,8 +5,8 @@ motif_url <- "https://bio.liclab.net/ATACdb/download/packages/Motif_scan_package
 motif_filename <- basename(motif_url)
 
 # Define the directory path
-motif_dir <- "motif_scan/"
-jaspar_dir <- "JASPAR/"
+motif_dir <- "motif_scan"
+jaspar_dir <- "JASPAR"
 
 # Create a log file for capturing download errors
 log_file_path <- file.path(jaspar_dir, "download_log.txt")
@@ -91,6 +91,9 @@ for (motif_id in unique_motif_ids) {
 # Calculate score based on -log10(qvalue)
 motif_data$score <- as.integer(-10 * log10(motif_data$motif_sacn_qvalue))
 
+# Subtract 1 from the "start" column
+motif_data$motif_sacn_start <- motif_data$motif_sacn_start - 1
+
 # Create a new data frame with the desired column order
 rearranged_motif_data <- motif_data[, c("motif_sacn_chr", "motif_sacn_start", "motif_sacn_end", "motif_sacn_tf_name", "score", "motif_sacn_strand", "motif_sacn_motif_id", "motif_sacn_pvalue", "motif_sacn_qvalue", "motif_sacn_sequence")]
 
@@ -102,5 +105,15 @@ output_filename <- file.path(motif_dir, "Motif_scan_package_rearranged.bed")
 
 # Write the modified data frame to a new BED file in the motif directory
 write.table(rearranged_motif_data, file = output_filename, sep = "\t", quote = FALSE, row.names = FALSE)
+
+# Sort the BED file using an external sorting command
+sorting_command <- paste(
+  "LC_ALL=C sort -t $'\t' -k1,1 -k2,2n -k3,3n",
+  "-o", output_filename,  # Output the sorted result to the sorted file
+  output_filename  # Input file to be sorted
+)
+
+# Execute the sorting command
+system(sorting_command)
 
 cat("Rearranged motifs BED file saved as", output_filename, "\n")
