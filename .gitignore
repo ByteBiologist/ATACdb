@@ -5,3 +5,5 @@ Accessible_chromatin_files/
 motif_scan/
 JASPAR/
 mapping/
+TF-footprints/
+atacdb_srr_cell_types.tsv
