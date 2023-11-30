@@ -98,7 +98,7 @@ motif_data$motif_sacn_start <- motif_data$motif_sacn_start - 1
 rearranged_motif_data <- motif_data[, c("motif_sacn_chr", "motif_sacn_start", "motif_sacn_end", "motif_sacn_tf_name", "score", "motif_sacn_strand", "motif_sacn_motif_id", "motif_sacn_pvalue", "motif_sacn_qvalue", "motif_sacn_sequence")]
 
 # Modify the column names in the data frame
-colnames(rearranged_motif_data) <- c("#chrom", "start", "end", "name", "score", "strand", "motif_id", "pValue", "qValue", "binding_sequence")
+colnames(rearranged_motif_data) <- c("#chrom", "chromStart", "chromEnd", "name", "score", "strand", "motif_id", "pValue", "qValue", "binding_sequence")
 
 # Define the output filename for the rearranged motifs BED file
 output_filename <- file.path(motif_dir, "Motif_scan_package_rearranged.bed")
