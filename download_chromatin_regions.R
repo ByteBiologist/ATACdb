@@ -63,7 +63,7 @@ process_sample <- function(sample_id) {
   output_filename <- file.path(processed_dir, paste0("Sample_", formatted_sample_id, "_rearranged_sorted.bed"))
 
   # Modify the column names in the data frame
-  colnames(rearranged_bed_data) <- c("#chrom", "start", "end", "sample_region", "score", "strand", "fold_change", "pValue", "qValue", "peak")
+  colnames(rearranged_bed_data) <- c("#chrom", "chromStart", "chromEnd", "sample_region", "score", "strand", "fold_change", "pValue", "qValue", "peak")
 
   # Write the modified data frame to a new BED file in the Accessible_chromatin_files directory
   write.table(rearranged_bed_data, file = output_filename, sep = "\t", quote = FALSE, row.names = FALSE, col.names = TRUE)

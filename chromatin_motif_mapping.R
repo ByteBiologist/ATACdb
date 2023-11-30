@@ -1,100 +1,83 @@
-# Load the necessary libraries (if not already installed)
-# install.packages("data.table")
-# install.packages("dplyr")
+# Function to perform bedtools intersect
+perform_bedtools_intersect <- function(motif_file, input_file, output_file) {
+  # Construct the bedtools intersect command
+  cmd <- c("bedtools", "intersect", "-a", motif_file, "-b", input_file, "-wo")
 
-library(data.table)
-library(dplyr)
+  # Run the bedtools intersect command and capture the output
+  intersect_output <- system2(cmd, stdout = TRUE)
 
-# Set the input and output directory paths
-chromatin_directory <- "Accessible_chromatin_files/test"
-motif_directory <- "motif"
-output_directory <- "mapping"
+  # Split the output by newline character
+  output_lines <- strsplit(intersect_output, "\n")[[1]]
 
-# Create the output directory if it doesn't exist
-if (!dir.exists(output_directory)) {
-  dir.create(output_directory)
-}
+  # Open the output file for writing
+  output_conn <- file(output_file, "w")
 
-# List all files in the chromatin input directory
-chromatin_files <- list.files(path = chromatin_directory, full.names = TRUE)
-
-# Set the pattern to match motif files
-motif_pattern <- "^Motif_scan_package_rearranged_chr[0-9]+\\.bed$"
-
-# List all files in the motif input directory that match the pattern
-chromosome_motif_files <- list.files(path = motif_directory, full.names = TRUE, pattern = motif_pattern)
-
-#print(chromosome_motif_files)
-
-# Function to process a single chromatin file with a specific motif file
-process_chromatin_file <- function(chromatin_file, motif_file) {
-  # Extract the file name without the path
-  chromatin_file_name <- basename(chromatin_file)
-  
-  # Load the accessible chromatin regions data
-  chromatin_data <- fread(chromatin_file, header = TRUE, sep = "\t")
-  
-  # Load the motif data for the current chromosome
-  motif_data <- fread(motif_file, header = TRUE, sep = "\t")
-  
-  # Initialize lists to store mapping results
-  region_ids <- character(0)
-  motif_ids <- character(0)
-  tf_names <- character(0)
-  pvalues <- numeric(0)
-  qvalues <- numeric(0)
-  
-  # Iterate through each chromatin region
-  for (i in 1:nrow(chromatin_data)) {
-    chrom <- chromatin_data[i, "chr"]
-    start <- chromatin_data[i, "start"]
-    end <- chromatin_data[i, "end"]
-    
-    # Find motifs that overlap with the chromatin region
-    overlapping_motifs <- motif_data %>%
-      filter(
-        motif_sacn_chr == chrom,
-        motif_sacn_start >= start,
-        motif_sacn_end <= end
-      )
-    
-    # Check if any motifs were found
-    if (nrow(overlapping_motifs) > 0) {
-      # Extract relevant information and store it in lists
-      region_ids <- c(region_ids, rep(chromatin_data[i, "region_ID"], nrow(overlapping_motifs)))
-      motif_ids <- c(motif_ids, overlapping_motifs$motif_sacn_motif_id)
-      tf_names <- c(tf_names, overlapping_motifs$motif_sacn_tf_name)
-      pvalues <- c(pvalues, overlapping_motifs$motif_sacn_pvalue)
-      qvalues <- c(qvalues, overlapping_motifs$motif_sacn_qvalue)
+  # Process each line and modify it as needed
+  for (line in output_lines) {
+    if (line != "") {
+      # Split the line by tab character
+      columns <- strsplit(line, "\t")[[1]]
+      
+      # Format columns 11, 12, and 13 as "chr1:10006-10614"
+      coordinates <- paste0(columns[11], ":", columns[12], "-", columns[13])
+      
+      # Concatenate columns starting from the 14th column using ';'
+      concatenated_columns <- paste(coordinates, paste(columns[14:length(columns)], collapse = ";"), sep = "\t")
+      
+      # Write the modified line to the output file
+      cat(concatenated_columns, file = output_conn, append = TRUE)
     }
   }
-  
-  # Combine the extracted information into a data frame
-  mapping_df <- data.frame(
-    Accessible_Chromatin_Region = region_ids,
-    Motif_ID = motif_ids,
-    TF_Name = tf_names,
-    PValue = pvalues,
-    QValue = qvalues
-  )
-  
-  # Create the output file name (based on the chromatin input file name)
-  output_file <- file.path(output_directory, paste0("Mapping_results_", chromatin_file_name))
-  
-  # Save the mapping results to the output file
-  write.csv(mapping_df, file = output_file, row.names = FALSE)
+
+  # Close the output file
+  close(output_conn)
+
+  cat("Intersection complete for", input_file, ". Results saved to", output_file, "\n")
 }
 
-# Process each chromatin file with its corresponding motif file
+# Load samples metadata from "samples_metadata.txt" into a list
+samples_metadata <- list()
+metadata_file <- file("samples_metadata.txt", "r")
+while (length(line <- readLines(metadata_file, n = 1)) > 0) {
+  # Split the line into columns using tab as separator
+  columns <- strsplit(line, "\t")[[1]]
+  sample_id <- columns[1]
+  tissue_type <- columns[3]
+  samples_metadata[[sample_id]] <- tissue_type
+}
+close(metadata_file)
+
+# Define the paths to the motif file, the directory containing Accessible chromatin files, and the output directory
+motif_file <- "motif_scan/Motif_scan_package_rearranged.bed"
+chromatin_dir <- "Accessible_chromatin_files/test"
+output_dir <- "mapping"  # New directory for output files
+
+# Create the "mapping" directory if it doesn't exist
+if (!dir.exists(output_dir)) {
+  dir.create(output_dir)
+}
+
+# List all the Accessible chromatin files in the directory
+chromatin_files <- list.files(path = chromatin_dir, pattern = "\\.bed$")
+
+# Loop through the chromatin files and perform bedtools intersect
 for (chromatin_file in chromatin_files) {
-  # Iterate through all chromosome-specific motif files
-  for (chromosome_motif_file in chromosome_motif_files) {
-    process_chromatin_file(chromatin_file, chromosome_motif_file)
+  input_file <- file.path(chromatin_dir, chromatin_file)
+
+  # Extract the sample ID from the input file name (Sample_XXXX)
+  sample_id <- gsub("_.*", "", chromatin_file)
+
+  # Lookup tissue type from the samples metadata
+  tissue_type <- samples_metadata$Tissue_Type[samples_metadata$Sample_ID == sample_id]
+
+  # If not found, use "Unknown"
+  if (length(tissue_type) == 0) {
+    tissue_type <- "Unknown"
   }
+
+  # Construct the output file name
+  output_file <- file.path(output_dir, paste0(sample_id, "_", tissue_type, "_processed.bed"))
+
+  # Perform bedtools intersect
+  perform_bedtools_intersect(motif_file, input_file, output_file)
 }
-
-# Optionally, you can do further analysis or processing with the collected results.
-# For example, you can combine results from multiple files or generate summary statistics.
-
-# Print a message to indicate that the mapping is complete
-cat("Mapping complete. Results are saved in the 'mapping' directory.\n")

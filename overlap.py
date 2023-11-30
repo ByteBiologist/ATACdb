@@ -14,7 +14,7 @@ def perform_bedtools_intersect(motif_file, input_file, output_file):
         process = subprocess.run(cmd, stdout=subprocess.PIPE, text=True)
         
         # Define the header
-        header = "#chrom\tstart\tend\tname\tscore\tstrand\tmotif_id\tpValue\tqValue\tbinding_sequence\topen_chromatin_region"
+        header = "#chrom\tchromStart\tchromEnd\tname\tscore\tstrand\tmotif_id\tpValue\tqValue\tbinding_sequence\topen_chromatin_region"
         
         # Write the header to the output file
         output.write(header + '\n')
