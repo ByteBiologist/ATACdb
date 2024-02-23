@@ -7,3 +7,5 @@ JASPAR/
 mapping/
 TF-footprints/
 atacdb_srr_cell_types.tsv
+output_key_value_pairs.txt
+track_des.py
