@@ -9,3 +9,7 @@ TF-footprints/
 atacdb_srr_cell_types.tsv
 output_key_value_pairs.txt
 track_des.py
+hg38.fa
+hg38.fa.fai
+liftover_accessible_chromatin/
+liftover_Motifs/
