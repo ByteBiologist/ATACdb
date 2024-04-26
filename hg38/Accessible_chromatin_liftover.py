@@ -9,6 +9,7 @@ base_dir = "/mnt/ebs/jackal/FILER2/FILER2-production/ATACdb/"
 liftover_path = os.path.join(base_dir, "Liftover/liftOver")
 chain_file = os.path.join(base_dir, "Liftover/hg19ToHg38.over.chain.gz")
 
+# Check and filter on chromosome start
 def filter_bed_file(input_file, output_file):
     with open(input_file, 'r') as infile, open(output_file, 'w') as outfile:
         for idx, line in enumerate(infile):
